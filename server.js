@@ -12,9 +12,6 @@ app.use(json());
 
 app.use('/api/grammar', grammarRoutes);
 
-app.get('/', (req, res) => {
-    res.send('JLPT API is running');
-});
 
 
 export default app;
