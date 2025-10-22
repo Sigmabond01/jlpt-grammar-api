@@ -1,0 +1,600 @@
+{
+  "JLPT_N4_Grammar": [
+    {
+      "id": 1,
+      "grammar": "〜し、〜し",
+      "romaji": "shi, ~shi",
+      "meaning": "expressing multiple reasons or repeating similar things",
+      "example": "ラーメンはかんたんにできるし、安いし、おいしい。 (Raamen wa kantan ni dekiru shi, yasui shi, oishii.) - Ramen is easy to cook, cheap and delicious."
+    },
+    {
+      "id": 2,
+      "grammar": "〜て",
+      "romaji": "te",
+      "meaning": "a cause or reason",
+      "example": "しゅくだいをわすれたので、先生にしかられた。 (Shukudai o wasureta node, sensei ni shikarareta.) - The teacher scolded me for forgetting to do my homework."
+    },
+    {
+      "id": 3,
+      "grammar": "〜んです",
+      "romaji": "n desu",
+      "meaning": "explanation, reason",
+      "example": "A: どうしたんですか。 B: 頭がいたいんです。 (A: Doushita n desu ka. B: Atama ga itai n desu.) - A: What's the matter? B: My head hurts."
+    },
+    {
+      "id": 4,
+      "grammar": "そこで",
+      "romaji": "sokode",
+      "meaning": "therefore/that's why",
+      "example": "ここはコーヒーが100円です。だから、人がたくさん来てる。 (Koko wa koohii ga 100 en desu. Dakara, hito ga takusan kiteru.) - The coffee is 100Yen here. That's why it's popular."
+    },
+    {
+      "id": 5,
+      "grammar": "〜ので",
+      "romaji": "node",
+      "meaning": "because..., ...so",
+      "example": "何かしなくてはいけない。だから、しんぱいします。 (Nanika shinakute wa ikenai. Dakara, shinpai shimasu.) - There's something I need to do, so excuse me for leaving before you."
+    },
+    {
+      "id": 6,
+      "grammar": "〜てあげる",
+      "romaji": "te ageru",
+      "meaning": "doing something for someone else",
+      "example": "ルームメートに、料理を作ってあげました。 (Ruumumeeto ni, ryouri o tsukutte agemashita.) - I cooked a dish for my roommate."
+    },
+    {
+      "id": 7,
+      "grammar": "〜てくれる",
+      "romaji": "te kureru",
+      "meaning": "something is done by someone for me or my family",
+      "example": "わかい人が、にもつを持ってくれました。 (Wakai hito ga, nimotsu o motte kuremashita.) - A young man held my luggage."
+    },
+    {
+      "id": 8,
+      "grammar": "〜てもらう",
+      "romaji": "te morau",
+      "meaning": "something is done by someone for me or my family",
+      "example": "田中さんに、ノートを貸してもらった。 (Tanaka-san ni, nooto o kashite moratta.) - Mr.Tanaka lent me his notebook."
+    },
+    {
+      "id": 9,
+      "grammar": "〜てくれませんか / 〜ていただけませんか",
+      "romaji": "te kuremasen ka / te itadakemasen ka",
+      "meaning": "Could you...?",
+      "example": "もっとゆっくり話してくれませんか。もっとゆっくり話していただけませんか。 (Motto yukkuri hanashite kuremasen ka. Motto yukkuri hanashite itadakemasen ka.) - I would like to learn more, so would you be so kind as to teach me?"
+    },
+    {
+      "id": 10,
+      "grammar": "可能形",
+      "romaji": "kanoukei",
+      "meaning": "Verb Potential form",
+      "example": "飲める、食べられる、できる、来られる。 (Nomeru, taberareru, dekiru, korareru.) - [Potential form] of 'drink, eat, do, come'."
+    },
+    {
+      "id": 11,
+      "grammar": "命令形",
+      "romaji": "meireikei",
+      "meaning": "Verb Imperative form",
+      "example": "飲め、食べろ、しろ、来い。 (Nome, tabero, shiro, koi.) - [Imperative form] of 'drink, eat, do, come'."
+    },
+    {
+      "id": 12,
+      "grammar": "禁止形",
+      "romaji": "kinshikei",
+      "meaning": "Verb Prohibitive form",
+      "example": "飲むな、食べるな、するな、来るな。 (Nomu na, taberu na, suru na, kuru na.) - [Prohibitive form] of 'drink, eat, do, come'."
+    },
+    {
+      "id": 13,
+      "grammar": "条件形",
+      "romaji": "joukenkei",
+      "meaning": "Verb Conditional form",
+      "example": "飲めば、食べれば、すれば、来れば。 (Nomeba, tabereba, sureba, kureba.) - [Conditional form] of 'drink, eat, do, come'."
+    },
+    {
+      "id": 14,
+      "grammar": "意向形",
+      "romaji": "ikoukei",
+      "meaning": "Verb Volitional form",
+      "example": "飲もう、食べよう、しよう、来よう。 (Nomou, tabeyou, shiyou, koyou.) - [Volitional form] of 'drink, eat, do, come'."
+    },
+    {
+      "id": 15,
+      "grammar": "受身形",
+      "romaji": "ukemikei",
+      "meaning": "Verb Passive form",
+      "example": "飲まれる、食べられる、される、来られる。 (Nomareru, taberareru, sareru, korareru.) - [Passive form] of 'drink, eat, do, come'."
+    },
+    {
+      "id": 16,
+      "grammar": "使役形",
+      "romaji": "shiekikei",
+      "meaning": "Verb Causative form",
+      "example": "飲ませる、食べさせる、させる、来させる。 (Nomaseru, tabesaseru, saseru, kosaseru.) - [Causative form] of 'drink, eat, do, come'."
+    },
+    {
+      "id": 17,
+      "grammar": "使役受身形",
+      "romaji": "shieki ukemikei",
+      "meaning": "Verb Causative passive form",
+      "example": "飲まされる、食べさせられる、させられる、来させられる。 (Nomasareru, tabesaserareru, saserareru, kosaserareru.) - [Causative passive form] of 'drink, eat, do, come'."
+    },
+    {
+      "id": 18,
+      "grammar": "見える/聞こえる",
+      "romaji": "mieru/kikoeru",
+      "meaning": "be audible/ be visible",
+      "example": "テレビの音が聞こえる。 (Terebi no oto ga kikoeru.) - The sound of a TV can be heard."
+    },
+    {
+      "id": 19,
+      "grammar": "自動詞/他動詞",
+      "romaji": "jidoushi/tadoushi",
+      "meaning": "Intransitive/Transitive Verb",
+      "example": "パソコンがこわれた。 / パソコンをこわしてしまった。 (Pasokon ga kowareta. / Pasokon o kowashite shimatta.) - The computer is broken. / I broke/destroyed the computer."
+    },
+    {
+      "id": 20,
+      "grammar": "〜ておく",
+      "romaji": "te oku",
+      "meaning": "the state after having done something with a particular purpose",
+      "example": "予定をカレンダーに書いておきます。 (Yotei o karendaa ni kaite okimasu.) - The schedule is written on the calendar."
+    },
+    {
+      "id": 21,
+      "grammar": "〜てしまう",
+      "romaji": "te shimau",
+      "meaning": "emphasis, regret",
+      "example": "ジュースを全部飲んでしまった。 (Juusu o zenbu nonde shimatta.) - I drink up all the juice that I bought yesterday."
+    },
+    {
+      "id": 22,
+      "grammar": "いる",
+      "romaji": "iru",
+      "meaning": "the circumstance of remaining effects",
+      "example": "ドアがしまっている。 (Doa ga shimatte iru.) - The door is locked."
+    },
+    {
+      "id": 23,
+      "grammar": "〜と言う",
+      "romaji": "to iu",
+      "meaning": "(someone) say...",
+      "example": "鈴木さんは、明日休むと言っていました。 (Suzuki-san wa, ashita yasumu to itte imashita.) - Ms.Suzuki said she would take the day off tomorrow."
+    },
+    {
+      "id": 24,
+      "grammar": "〜ところ",
+      "romaji": "tokoro",
+      "meaning": "just about/on the verge of doing something",
+      "example": "今、食べたところです。 (Ima, tabeta tokoro desu.) - I have just eaten."
+    },
+    {
+      "id": 25,
+      "grammar": "まえている",
+      "romaji": "matte iru",
+      "meaning": "still...",
+      "example": "雨が降っているよ。 (Ame ga futte iru yo.) - It's still raining."
+    },
+    {
+      "id": 26,
+      "grammar": "〜ばかり",
+      "romaji": "bakari",
+      "meaning": "just finished, something just occurred",
+      "example": "君は、会社に入ったばかりじゃない？ (Kimi wa, kaisha ni haitta bakari ja nai?) - You only joined the new company last month, didn't you?"
+    },
+    {
+      "id": 27,
+      "grammar": "ほうがいい",
+      "romaji": "hou ga ii",
+      "meaning": "you should...",
+      "example": "おふろに入ったほうがいいですよ。 (Ofuro ni haitta hou ga ii desu yo.) - You shouldn't have a bath."
+    },
+    {
+      "id": 28,
+      "grammar": "〜なくてもいい",
+      "romaji": "nakute mo ii",
+      "meaning": "need not do..., don't have to...",
+      "example": "今、しなくてもいいよ。明日でいいよ。 (Ima, shinakute mo ii yo. Ashita de ii yo.) - You don't have to clean it now. You can do it tomorrow."
+    },
+    {
+      "id": 29,
+      "grammar": "この/その/あの/どの",
+      "romaji": "kono/sono/ano/dono",
+      "meaning": "to refer to the thing not visible to the speaker or the hearer",
+      "example": "ねえ、この話、知ってる？ 山田さんが結婚したって ！ (Nee, kono hanashi, shitteru? Yamada-san ga kekkon shitatte!) - Do you know this story? Mr.Yamada is getting married."
+    },
+    {
+      "id": 30,
+      "grammar": "〜という意味",
+      "romaji": "to iu imi",
+      "meaning": "it mean...",
+      "example": "この漢字は、くつをぬぐという意味です。 (Kono kanji wa, kutsu o nugu to iu imi desu.) - This kanji means to take off your shoes."
+    },
+    {
+      "id": 31,
+      "grammar": "〜ないで",
+      "romaji": "naide",
+      "meaning": "without V-ing",
+      "example": "昨晩、勉強しないで寝てしまった。 (Sakuban, benkyou shinai de nete shimatta.) - Last night, I studied without getting any sleep."
+    },
+    {
+      "id": 32,
+      "grammar": "小さい/少ない/短い",
+      "romaji": "chiisai/sukunai/mijikai",
+      "meaning": "easy to.../ hard to...",
+      "example": "その手紙は、小さくて読みにくいです。 (Sono tegami wa, chiisakute yominikui desu.) - The letters are small, so hard to read."
+    },
+    {
+      "id": 33,
+      "grammar": "あとで",
+      "romaji": "ato de",
+      "meaning": "after, later",
+      "example": "仕事のあとで、ご飯を食べに行きます。 (Shigoto no ato de, gohan o tabe ni ikimasu.) - After work, I go to dinner."
+    },
+    {
+      "id": 34,
+      "grammar": "〜てから VS 〜あとで",
+      "romaji": "te kara VS ato de",
+      "meaning": "The action continues.",
+      "example": "ご飯を食べたあとで、食べる。食べる。 (Gohan o tabeta ato de, taberu. Taberu.) - (You don't know if you're done eating your meal. The action continues.)"
+    },
+    {
+      "id": 35,
+      "grammar": "かえって",
+      "romaji": "kaette",
+      "meaning": "before..., by...(time limit)",
+      "example": "レポートを明日までに出してください。 (Repooto o ashita made ni dashite kudasai.) - Submit your paper by day after tomorrow."
+    },
+    {
+      "id": 36,
+      "grammar": "〜ながら",
+      "romaji": "nagara",
+      "meaning": "while V-ing",
+      "example": "テレビを見ながら、夕ご飯を食べる。 (Terebi o minagara, yuugohan o taberu.) - I eat dinner while watching TV."
+    },
+    {
+      "id": 37,
+      "grammar": "〜すぎる",
+      "romaji": "sugiru",
+      "meaning": "too much",
+      "example": "このズボンは長すぎる。 (Kono zubon wa nagasugiru.) - This pants are too long for me."
+    },
+    {
+      "id": 38,
+      "grammar": "しかない",
+      "romaji": "shika nai",
+      "meaning": "only [Noun] and no other...",
+      "example": "パンしかないよ。おかずがないよ。 (Pan shika nai yo. Okazu ga nai yo.) - I only have one."
+    },
+    {
+      "id": 39,
+      "grammar": "下",
+      "romaji": "shita",
+      "meaning": "showing a limit",
+      "example": "10万円以下のような車はありませんか。 (10 man en ika no you na kuruma wa arimasen ka.) - Is there a car that I can buy for 100,000yen?"
+    },
+    {
+      "id": 40,
+      "grammar": "下",
+      "romaji": "shita",
+      "meaning": "[Noun] express many different meaning",
+      "example": "エベレストは、世界で一番高い山です。 (Eberesuto wa, sekai de ichiban takai yama desu.) - Everest is the highest mountain in the world."
+    },
+    {
+      "id": 41,
+      "grammar": "〜なんか",
+      "romaji": "nanka",
+      "meaning": "..or (colloquial)",
+      "example": "このイベントでは、カラオケなんかゲームをしますよ。 (Kono ibento de wa, karaoke nanka geemu o shimasu yo.) - At this event we will do things like karaoke or play games."
+    },
+    {
+      "id": 42,
+      "grammar": "も",
+      "romaji": "mo",
+      "meaning": "or something",
+      "example": "のどがかわきました。お茶でも飲みませんか。 (Nodo ga kawakimashita. Ocha demo nomimasen ka.) - I'm thirsty. How about drinking tea or something?"
+    },
+    {
+      "id": 43,
+      "grammar": " +は/も",
+      "romaji": " + wa/mo",
+      "meaning": "emphasis or comparison",
+      "example": "母には話します。 (Haha ni wa hanashimasu.) - I will talk to my mother. ( I won't talk to other people)"
+    },
+    {
+      "id": 44,
+      "grammar": " +の +",
+      "romaji": " + no +",
+      "meaning": "as a nominaliser",
+      "example": "ゲームをするのは、おもしろいです。 (Geemu o suru no wa, omoshiroi desu.) - It's interesting to play the game."
+    },
+    {
+      "id": 45,
+      "grammar": "〜と",
+      "romaji": "to",
+      "meaning": "if..., then",
+      "example": "お酒を飲むと、顔が赤くなるんです。 (Osake o nomu to, kao ga akaku naru n desu.) - My face turns red when I drink."
+    },
+    {
+      "id": 46,
+      "grammar": "〜ば",
+      "romaji": "ba",
+      "meaning": "if.. (hypothetical condition)",
+      "example": "この薬を飲めば、よくなりますよ。 (Kono kusuri o nomeba, yoku narimasu yo.) - If you take this medicine, you will get better."
+    },
+    {
+      "id": 47,
+      "grammar": "〜たら",
+      "romaji": "tara",
+      "meaning": "if, when, after, once",
+      "example": "テストの結果が悪かったら、どうしよう。 (Tesuto no kekka ga warukattara, dou shiyou.) - What if my test results are bad?"
+    },
+    {
+      "id": 48,
+      "grammar": "〜なら",
+      "romaji": "nara",
+      "meaning": "if (giving information)",
+      "example": "大阪に行くなら、たこ焼きを食べてくださいよ。 (Oosaka ni iku nara, takoyaki o tabete kudasai yo.) - If you're going to Osaka, eat 'takoyaki'."
+    },
+    {
+      "id": 49,
+      "grammar": "〜のに",
+      "romaji": "no ni",
+      "meaning": "even though..",
+      "example": "勉強したのに、テストで0点だった。 (Benkyou shita no ni, tesuto de 0 ten datta.) - I studied, but I got 0 points on a test."
+    },
+    {
+      "id": 50,
+      "grammar": "〜ても",
+      "romaji": "temo",
+      "meaning": "even if...",
+      "example": "雨が降っても、行きましょう。 (Ame ga futte mo, ikimashou.) - Let's go even if it's rains."
+    },
+    {
+      "id": 51,
+      "grammar": "場合",
+      "romaji": "baai",
+      "meaning": "in the event of, in the case that...",
+      "example": "時間がない場合は、連絡してくださいよ。 (Jikan ga nai baai wa, renraku shite kudasai yo.) - Please contact us if you can't be there on time."
+    },
+    {
+      "id": 52,
+      "grammar": "〜ようだ/みたいだ",
+      "romaji": "you da/mitai da",
+      "meaning": "it seems that...",
+      "example": "せきも出るし、頭もいたい。かぜをひいたようだ。 (Seki mo deru shi, atama mo itai. Kaze o hiita you da.) - I've got a cough, and my head aches. I might have caught a cold."
+    },
+    {
+      "id": 53,
+      "grammar": "〜ような",
+      "romaji": "you na",
+      "meaning": "像 (describing things)",
+      "example": "このスープ、からそうですね。 (Kono suupu, kara sou desu ne.) - This soup looks spicy."
+    },
+    {
+      "id": 54,
+      "grammar": "〜そう",
+      "romaji": "sou",
+      "meaning": "they say that...(hearsay)",
+      "example": "田中さんは、中国語が話せるそうですよ。 (Tanaka-san wa, chuugokugo ga hanaseru sou desu yo.) - I hear that Mr.Tanaka can speak Chinese."
+    },
+    {
+      "id": 55,
+      "grammar": "〜でしょう",
+      "romaji": "deshou",
+      "meaning": "it will probably...",
+      "example": "明日は、午後から雨が降るでしょう。 (Ashita wa, gogo kara ame ga furu deshou.) - It will probably rain tomorrow afternoon."
+    },
+    {
+      "id": 56,
+      "grammar": "〜と思う",
+      "romaji": "to omou",
+      "meaning": "I think...",
+      "example": "それはむずかしいと思いますよ。 (Sore wa muzukashii to omoimasu yo.) - I think that is extremely difficult."
+    },
+    {
+      "id": 57,
+      "grammar": "〜かもしれない",
+      "romaji": "kamo shirenai",
+      "meaning": "may...",
+      "example": "もう少しで、時間に間に合わないかも知れません。 (Mou sukoshi de, jikan ni ma ni awanai kamo shiremasen.) - We may not be able to make it in time."
+    },
+    {
+      "id": 58,
+      "grammar": "〜べき",
+      "romaji": "beki",
+      "meaning": "be supposed to be the case",
+      "example": "その店は、開いているはずです。 (Sono mise wa, aite iru hazu desu.) - That shop must be opened, because today is Monday."
+    },
+    {
+      "id": 59,
+      "grammar": "〜ない",
+      "romaji": "nai",
+      "meaning": "do.. (command)",
+      "example": "もっとよく聞いてください。 (Motto yoku kiite kudasai.) - Listen carefully, again."
+    },
+    {
+      "id": 60,
+      "grammar": "〜なければいけない",
+      "romaji": "nakereba ikenai",
+      "meaning": "must, have to...",
+      "example": "学校では制服を着なければいけません。 (Gakkou de wa seifuku o kinakereba ikemasen.) - You have to wear a uniform at school."
+    },
+    {
+      "id": 61,
+      "grammar": "今/今日/会社形",
+      "romaji": "ima/kyou/kaisha kei",
+      "meaning": "We don't have time, hurry up.",
+      "example": "時間がありません。急いで。 (Jikan ga arimasen. Isoide.) - We don't have time, hurry up."
+    },
+    {
+      "id": 62,
+      "grammar": "思う",
+      "romaji": "omou",
+      "meaning": "I think I'll [Verb Volitional-form]",
+      "example": "夏休みは、海に行こうと思っています。 (Natsuyasumi wa, umi ni ikou to omotte imasu.) - I'm thinking I'll go to the sea for summer vacation."
+    },
+    {
+      "id": 63,
+      "grammar": "予定",
+      "romaji": "yotei",
+      "meaning": "schedule",
+      "example": "3時に、部長と会う予定があります。 (3 ji ni, buchou to au yotei ga arimasu.) - I have scheduled a meeting with the manager at 3:00."
+    },
+    {
+      "id": 64,
+      "grammar": "〜つもり",
+      "romaji": "tsumori",
+      "meaning": "intent/plan to...",
+      "example": "来年、日本に行くつもりです。 (Rainen, Nihon ni iku tsumori desu.) - I'm going to go to Japan next year."
+    },
+    {
+      "id": 65,
+      "grammar": "〜てみる",
+      "romaji": "te miru",
+      "meaning": "try to do",
+      "example": "この服、着てみたいです。 (Kono fuku, kite mitai desu.) - May I try this cloth?"
+    },
+    {
+      "id": 66,
+      "grammar": "〜ておく",
+      "romaji": "te oku",
+      "meaning": "making preparations in advance",
+      "example": "子供のために、夕食を作っておきました。 (Kodomo no tame ni, yuushoku o tsukutte okimashita.) - I had prepared dinner for my children before I went out."
+    },
+    {
+      "id": 67,
+      "grammar": "〜ように",
+      "romaji": "you ni",
+      "meaning": "so that, in order to",
+      "example": "みんなに聞こえるように、大きくてください。 (Minna ni kikoeru you ni, ookiku shite kudasai.) - Please say it so everyone can hear."
+    },
+    {
+      "id": 68,
+      "grammar": "〜ために",
+      "romaji": "tame ni",
+      "meaning": "for.., in order to...",
+      "example": "速く走れるために、毎日練習しています。 (Hayaku hashireru tame ni, mainichi renshuu shite imasu.) - I'm practicing every day in order to become able to run faster."
+    },
+    {
+      "id": 69,
+      "grammar": "〜のに",
+      "romaji": "no ni",
+      "meaning": "for..,...",
+      "example": "車を停めるのに、時間がかかりました。 (Kuruma o tomeru no ni, jikan ga kakarimashita.) - It took a long time to park a car."
+    },
+    {
+      "id": 70,
+      "grammar": "〜ようになる",
+      "romaji": "you ni naru",
+      "meaning": "to reach the point that/ to come to be that/ to turn into",
+      "example": "英語が話せるようになりましたか。 (Eigo ga hanaseru you ni narimashita ka.) - Are you able to speak English now?"
+    },
+    {
+      "id": 71,
+      "grammar": "〜になることにする",
+      "romaji": "ni naru koto ni suru",
+      "meaning": "has been decided",
+      "example": "父が入院することになりました。 (Chichi ga nyuuin suru koto ni narimashita.) - My father has been hospitalized."
+    },
+    {
+      "id": 72,
+      "grammar": "〜がする",
+      "romaji": "ga suru",
+      "meaning": "can hear, see, smell",
+      "example": "彼らが興奮して話すのが聞こえる。 (Karera ga koufun shite hanasu no ga kikoeru.) - They are talking excitedly."
+    },
+    {
+      "id": 73,
+      "grammar": "〜ようにする",
+      "romaji": "you ni suru",
+      "meaning": "making a conscious effort to do something",
+      "example": "毎日運動し、健康的な食事を取るようにしています。 (Mainichi undou shi, kenkouteki na shokuji o toru you ni shite imasu.) - I try to exercise every day and eat a wide range of foods."
+    },
+    {
+      "id": 74,
+      "grammar": "〜(に)する/にする",
+      "romaji": "(ni) suru/ni suru",
+      "meaning": "turn/make to do, decide to do",
+      "example": "今年は、国に帰らないことにしました。 (Kotoshi wa, kuni ni kaeranai koto ni shimashita.) - I've decided not to go back to my country this year."
+    },
+    {
+      "id": 75,
+      "grammar": "〜から/できている",
+      "romaji": "kara/dekite iru",
+      "meaning": "made from/of",
+      "example": "このテーブルは木からできています。 (Kono teeburu wa ki kara dekite imasu.) - This table is made of wood."
+    },
+    {
+      "id": 76,
+      "grammar": "〜てくる",
+      "romaji": "te kuru",
+      "meaning": "get.., come ..",
+      "example": "コンビニに行ってきます。 (Konbini ni itte kimasu.) - I'm going to the convenience store."
+    },
+    {
+      "id": 77,
+      "grammar": "〜か",
+      "romaji": "ka",
+      "meaning": "..what/when/where/who/how..",
+      "example": "今、何時かわかりますか？ (Ima, nanji ka wakarimasu ka?) - Do you know what time it is now?"
+    },
+    {
+      "id": 78,
+      "grammar": "〜かどうか",
+      "romaji": "ka dou ka",
+      "meaning": "whether it's ..or not",
+      "example": "おいしいかどうか、わからないから、食べない。 (Oishii ka dou ka, wakaranai kara, tabenai.) - We won't know if it's good or not until we eat it."
+    },
+    {
+      "id": 79,
+      "grammar": "く",
+      "romaji": "ku",
+      "meaning": "an Adjective to turn into a Noun",
+      "example": "この山の高さをしっていますか。 (Kono yama no takasa o shitte imasu ka.) - Do you know how high Mt.Fuji is?"
+    },
+    {
+      "id": 80,
+      "grammar": " +[Verb]",
+      "romaji": " +[Verb]",
+      "meaning": "Please write a bigger.",
+      "example": "もっと大きく書いてください。 (Motto ookiku kaite kudasai.) - Please write with a bigger."
+    },
+    {
+      "id": 81,
+      "grammar": "敬語",
+      "romaji": "keigo",
+      "meaning": "honorific expressions",
+      "example": "To show your respect to particular people's actions (Tokushuu keigo ni tsuite.) - To show your respect to particular people's actions."
+    },
+    {
+      "id": 82,
+      "grammar": "敬語",
+      "romaji": "keigo",
+      "meaning": "Respectful expressions",
+      "example": "部長、ご飯を召し上がりましたか。 (Buchou, gohan o meshiagari mashita ka.) - Manager, did you have lunch ?"
+    },
+    {
+      "id": 83,
+      "grammar": "謙譲語",
+      "romaji": "kenjougo",
+      "meaning": "Humble expressions",
+      "example": "この本は大統領からいただいたものです。 (Kono hon wa daitouryou kara itadaita mono desu.) - I was given this book by the president."
+    },
+    {
+      "id": 84,
+      "grammar": "〜ておる/〜ておく/ 〜ておる/",
+      "romaji": "te oru/te oku/ ~te oru/",
+      "meaning": "Receiving, Giving honorific",
+      "example": "社長が 電話 とってくださいました。 (Shachou ga denwa totte kudasaimashita.) - The president made time for me."
+    },
+    {
+      "id": 85,
+      "grammar": "でください/いただけますか",
+      "romaji": "de kudasai/itadakemasu ka",
+      "meaning": "Would you please let me do..?",
+      "example": "明日、休ませてくださいませんか。 (Ashita, yasumashite kudasaimasen ka.) - Would you please let me get a day off tomorrow?"
+    }
+  ]
+}
+

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JLPT Grammar API - Docs</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            padding: 20px 40px;
+            margin-bottom: 30px; /* Added margin for footer */
+        }
+        h1, h2 {
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        h2 {
+            color: #34495e;
+            margin-top: 40px;
+        }
+        h3 {
+            color: #555;
+            margin-top: 30px;
+        }
+        /* Code blocks */
+        pre {
+            background-color: #2d2d2d;
+            color: #f1f1f1;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+        code {
+            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+            font-size: 0.95em;
+        }
+        /* Inline code for URLs */
+        .url {
+            background-color: #eef;
+            border: 1px solid #cce;
+            color: #303099;
+            padding: 3px 6px;
+            border-radius: 4px;
+            font-weight: 600;
+        }
+        /* Badges for GET, 200, 404 */
+        .badge {
+            display: inline-block;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-weight: 700;
+            font-size: 0.9em;
+            color: white;
+            margin-right: 10px;
+        }
+        .badge.get { background-color: #3498db; }
+        .badge.status-ok { background-color: #27ae60; }
+        .badge.status-err { background-color: #e74c3c; }
+        
+        /* Footer style */
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+        footer a {
+            color: #3498db;
+            text-decoration: none;
+        }
+        footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>JLPT Grammar API</h1>
+        <p>A simple read-only API for retrieving JLPT grammar points.</p>
+
+        <h3>Base URL</h3>
+        <p>All endpoints are relative to the following base URL:</p>
+        <pre><code>http://localhost:4000</code></pre>
+
+        <h2>Endpoints</h2>
+
+        <div class="endpoint">
+            <h3>Get All Grammar by Level</h3>
+            <p>
+                <span class="badge get">GET</span>
+                <code class="url">/api/grammar/:level</code>
+            </p>
+            <p>Retrieves a JSON array of all grammar points for a specific JLPT level. Currently, <strong>N5 and N4</strong> are supported.</p>
+
+            <h4>URL Parameters</h4>
+            <ul>
+                <li><code>:level</code> (string) - <strong>Required</strong>. The JLPT level (e.g., <code>N5</code>, <code>N4</code>).</li>
+            </ul>
+
+            <h4>✅ Success Response (200 OK)</h4>
+            <p>Returns a full array of grammar objects.</p>
+            <pre><code>[
+  {
+    "id": 1,
+    "grammar_point": "ちゃいけない・じゃいけない",
+    "romaji": "cha ikenai / ja ikenai",
+    // ...
+  },
+  // ...and so on
+]</code></pre>
+
+            <h4>❌ Error Response (404 Not Found)</h4>
+            <p>Returned if the requested <code>:level</code> is not found (e.g., <code>/api/grammar/N3</code>).</p>
+            <pre><code>{
+  "message": "Error fetching data for level N3. Level not found or is empty."
+}</code></pre>
+        </div>
+
+        <div class="endpoint">
+            <h3>Get Single Grammar by ID</h3>
+            <p>
+                <span class="badge get">GET</span>
+                <code class="url">/api/grammar/:level/:id</code>
+            </p>
+            <p>Retrieves a single grammar point object specified by its <code>:level</code> and <code>:id</code>.</p>
+
+            <h4>URL Parameters</h4>
+            <ul>
+                <li><code>:level</code> (string) - <strong>Required</strong>. The JLPT level (e.g., <code>N5</code>, <code>N4</code>).</li>
+                <li><code>:id</code> (integer) - <strong>Required</strong>. The ID of the grammar point to retrieve.</li>
+            </ul>
+
+            <h4>✅ Success Response (200 OK)</h4>
+            <p>Returns the single matching grammar object.</p>
+            <pre><code>{
+  "id": 15,
+  "grammar_point": "ほうがいい",
+  "romaji": "hou ga ii",
+  // ...
+}</code></pre>
+
+            <h4>❌ Error Response (404 Not Found)</h4>
+            <p>Returned if the requested <code>:id</code> does not exist for that level (e.g., <code>/api/grammar/N4/999</code>).</p>
+            <pre><code>{
+  "message": "Grammar point not found in N4"
+}</code></pre>
+        </div>
+
+    </div>
+
+    <footer>
+        Made by 
+        <a href="https://x.com/Sigmabond01" target="_blank">@Sigmabond01 on X (Twitter)</a> &
+        <a href="https://github.com/Sigmabond01" target="_blank">@Sigmabond01 on GitHub</a>
+        <br>
+        <a href="http://github.com/Sigmabond01/jlpt-grammar-api" target="_blank">View the Repo</a>
+    </footer>
+
+</body>
+</html>
