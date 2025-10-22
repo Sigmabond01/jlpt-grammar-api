@@ -20,7 +20,7 @@
             border: 1px solid #ddd;
             border-radius: 8px;
             padding: 20px 40px;
-            margin-bottom: 30px; /* Added margin for footer */
+            margin-bottom: 30px;
         }
         h1, h2 {
             border-bottom: 2px solid #eee;
@@ -37,7 +37,6 @@
             color: #555;
             margin-top: 30px;
         }
-        /* Code blocks */
         pre {
             background-color: #2d2d2d;
             color: #f1f1f1;
@@ -49,7 +48,6 @@
             font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
             font-size: 0.95em;
         }
-        /* Inline code for URLs */
         .url {
             background-color: #eef;
             border: 1px solid #cce;
@@ -58,7 +56,6 @@
             border-radius: 4px;
             font-weight: 600;
         }
-        /* Badges for GET, 200, 404 */
         .badge {
             display: inline-block;
             padding: 4px 10px;
@@ -71,8 +68,6 @@
         .badge.get { background-color: #3498db; }
         .badge.status-ok { background-color: #27ae60; }
         .badge.status-err { background-color: #e74c3c; }
-        
-        /* Footer style */
         footer {
             text-align: center;
             padding: 20px;
@@ -94,8 +89,12 @@
         <p>A simple read-only API for retrieving JLPT grammar points.</p>
 
         <h3>Base URL</h3>
-        <p>All endpoints are relative to the following base URL:</p>
-        <pre><code>http://localhost:4000</code></pre>
+        <p>Depending on where you are accessing the API:</p>
+        <ul>
+            <li><strong>Local development:</strong> <code class="url">http://localhost:4000</code></li>
+            <li><strong>Deployed on Vercel:</strong> <code class="url">https://jlpt-grammar-api.vercel.app</code></li>
+        </ul>
+        <p>All endpoints are relative to the base URL, e.g., <code class="url">/api/grammar/N5</code> or <code class="url">/api/grammar/N4</code>.</p>
 
         <h2>Endpoints</h2>
 
@@ -105,7 +104,7 @@
                 <span class="badge get">GET</span>
                 <code class="url">/api/grammar/:level</code>
             </p>
-            <p>Retrieves a JSON array of all grammar points for a specific JLPT level. Currently, <strong>N5 and N4</strong> are supported.</p>
+            <p>Retrieves a JSON array of all grammar points for a specific JLPT level. Supported levels: <strong>N5 and N4</strong>.</p>
 
             <h4>URL Parameters</h4>
             <ul>
@@ -114,18 +113,15 @@
 
             <h4>✅ Success Response (200 OK)</h4>
             <p>Returns a full array of grammar objects.</p>
-            <pre><code>[
-  {
-    "id": 1,
-    "grammar_point": "ちゃいけない・じゃいけない",
-    "romaji": "cha ikenai / ja ikenai",
-    // ...
-  },
-  // ...and so on
-]</code></pre>
+            <pre><code>[{
+  "id": 1,
+  "grammar_point": "ちゃいけない・じゃいけない",
+  "romaji": "cha ikenai / ja ikenai",
+  // ...
+}]</code></pre>
 
             <h4>❌ Error Response (404 Not Found)</h4>
-            <p>Returned if the requested <code>:level</code> is not found (e.g., <code>/api/grammar/N3</code>).</p>
+            <p>Returned if the requested level is not found.</p>
             <pre><code>{
   "message": "Error fetching data for level N3. Level not found or is empty."
 }</code></pre>
@@ -141,8 +137,8 @@
 
             <h4>URL Parameters</h4>
             <ul>
-                <li><code>:level</code> (string) - <strong>Required</strong>. The JLPT level (e.g., <code>N5</code>, <code>N4</code>).</li>
-                <li><code>:id</code> (integer) - <strong>Required</strong>. The ID of the grammar point to retrieve.</li>
+                <li><code>:level</code> (string) - <strong>Required</strong>. JLPT level (e.g., <code>N5</code>, <code>N4</code>).</li>
+                <li><code>:id</code> (integer) - <strong>Required</strong>. ID of the grammar point to retrieve.</li>
             </ul>
 
             <h4>✅ Success Response (200 OK)</h4>
@@ -155,7 +151,7 @@
 }</code></pre>
 
             <h4>❌ Error Response (404 Not Found)</h4>
-            <p>Returned if the requested <code>:id</code> does not exist for that level (e.g., <code>/api/grammar/N4/999</code>).</p>
+            <p>Returned if the requested <code>:id</code> does not exist for that level.</p>
             <pre><code>{
   "message": "Grammar point not found in N4"
 }</code></pre>
@@ -165,10 +161,10 @@
 
     <footer>
         Made by 
-        <a href="https://x.com/Sigmabond01" target="_blank">@Sigmabond01 on X (Twitter)</a> &
+        <a href="https://x.com/Sigmabond01" target="_blank">@Sigmabond01 on X (Twitter)</a> &amp;
         <a href="https://github.com/Sigmabond01" target="_blank">@Sigmabond01 on GitHub</a>
         <br>
-        <a href="http://github.com/Sigmabond01/jlpt-grammar-api" target="_blank">View the Repo</a>
+        <a href="https://github.com/Sigmabond01/jlpt-grammar-api" target="_blank">View the Repo</a>
     </footer>
 
 </body>
