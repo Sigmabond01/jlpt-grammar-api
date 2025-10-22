@@ -12,6 +12,7 @@ app.use(json());
 
 app.use('/api/grammar', grammarRoutes);
 
+app.use('/', express.static('frontend'));
 
-
-export default app;
+const PORT = process.env.PORT || 4000;
+app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
