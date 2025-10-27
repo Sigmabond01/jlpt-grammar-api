@@ -1,6 +1,6 @@
 import { Router } from 'express';
 const router = Router();
-import { grammarLevel, grammarLevelId } from '../controllers/grammarController.js';
+import { grammarLevel, grammarLevelId } from '../controllers/controller.js';
 
 router.route('/:level').get(grammarLevel);
 

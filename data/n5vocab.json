@@ -1,0 +1,5157 @@
+{
+  "JLPT_N5_Vocabulary": [
+    {
+      "id": 1,
+      "word": "浴びる",
+      "romaji_reading": "abiru あびる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to bathe, to shower",
+      "level": 5
+    },
+    {
+      "id": 2,
+      "word": "危ない",
+      "romaji_reading": "abunai あぶない",
+      "pos": "Adjective, い-adjective",
+      "meaning": "dangerous",
+      "level": 5
+    },
+    {
+      "id": 3,
+      "word": "あっち",
+      "romaji_reading": "acchi",
+      "pos": "Pronoun",
+      "meaning": "over there",
+      "level": 5
+    },
+    {
+      "id": 4,
+      "word": "あちら",
+      "romaji_reading": "achira",
+      "pos": "Pronoun",
+      "meaning": "there",
+      "level": 5
+    },
+    {
+      "id": 5,
+      "word": "上げる",
+      "romaji_reading": "ageru あげる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to raise; to elevate; to give",
+      "level": 5
+    },
+    {
+      "id": 6,
+      "word": "赤",
+      "romaji_reading": "aka あか",
+      "pos": "Noun",
+      "meaning": "red; crimson; scarlet",
+      "level": 5
+    },
+    {
+      "id": 7,
+      "word": "赤い",
+      "romaji_reading": "akai あかい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "red; crimson; scarlet",
+      "level": 5
+    },
+    {
+      "id": 8,
+      "word": "明るい",
+      "romaji_reading": "akarui あかるい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "bright; light",
+      "level": 5
+    },
+    {
+      "id": 9,
+      "word": "開ける",
+      "romaji_reading": "akeru あける",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",
+      "level": 5
+    },
+    {
+      "id": 10,
+      "word": "秋",
+      "romaji_reading": "aki あき",
+      "pos": "Noun",
+      "meaning": "autumn; fall",
+      "level": 5
+    },
+    {
+      "id": 11,
+      "word": "開く",
+      "romaji_reading": "aku あく",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to open (e.g. doors, business, etc)",
+      "level": 5
+    },
+    {
+      "id": 12,
+      "word": "甘い",
+      "romaji_reading": "amai あまい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "sweet; sweet-tasting; sugary; naive; indulgent",
+      "level": 5
+    },
+    {
+      "id": 13,
+      "word": "雨",
+      "romaji_reading": "ame あめ",
+      "pos": "Noun",
+      "meaning": "rain",
+      "level": 5
+    },
+    {
+      "id": 14,
+      "word": "飴",
+      "romaji_reading": "ame あめ",
+      "pos": "Noun",
+      "meaning": "candy",
+      "level": 5
+    },
+    {
+      "id": 15,
+      "word": "あなた",
+      "romaji_reading": "anata",
+      "pos": "Pronoun",
+      "meaning": "you",
+      "level": 5
+    },
+    {
+      "id": 16,
+      "word": "姉",
+      "romaji_reading": "ane あね",
+      "pos": "Noun",
+      "meaning": "older sister; elder sister",
+      "level": 5
+    },
+    {
+      "id": 17,
+      "word": "兄",
+      "romaji_reading": "ani あに",
+      "pos": "Noun",
+      "meaning": "elder brother; older brother",
+      "level": 5
+    },
+    {
+      "id": 18,
+      "word": "あの",
+      "romaji_reading": "ano",
+      "pos": "Pre-noun adjectival",
+      "meaning": "that",
+      "level": 5
+    },
+    {
+      "id": 19,
+      "word": "青",
+      "romaji_reading": "ao あお",
+      "pos": "Noun",
+      "meaning": "blue; azure",
+      "level": 5
+    },
+    {
+      "id": 20,
+      "word": "青い",
+      "romaji_reading": "aoi あおい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "blue; azure",
+      "level": 5
+    },
+    {
+      "id": 21,
+      "word": "アパート",
+      "romaji_reading": "apaato",
+      "pos": "Noun, Katakana",
+      "meaning": "apartment",
+      "level": 5
+    },
+    {
+      "id": 22,
+      "word": "洗う",
+      "romaji_reading": "arau あらう",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to wash",
+      "level": 5
+    },
+    {
+      "id": 23,
+      "word": "あれ",
+      "romaji_reading": "are",
+      "pos": "Pronoun",
+      "meaning": "that",
+      "level": 5
+    },
+    {
+      "id": 24,
+      "word": "ある",
+      "romaji_reading": "aru",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to be, to have",
+      "level": 5
+    },
+    {
+      "id": 25,
+      "word": "歩く",
+      "romaji_reading": "aruku あるく",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to walk",
+      "level": 5
+    },
+    {
+      "id": 26,
+      "word": "朝",
+      "romaji_reading": "asa あさ",
+      "pos": "Noun",
+      "meaning": "morning",
+      "level": 5
+    },
+    {
+      "id": 27,
+      "word": "朝ご飯",
+      "romaji_reading": "asagohan あさごはん",
+      "pos": "Noun",
+      "meaning": "breakfast",
+      "level": 5
+    },
+    {
+      "id": 28,
+      "word": "明後日",
+      "romaji_reading": "asatte あさって",
+      "pos": "Noun",
+      "meaning": "day after tomorrow",
+      "level": 5
+    },
+    {
+      "id": 29,
+      "word": "足",
+      "romaji_reading": "ashi あし",
+      "pos": "Noun",
+      "meaning": "foot; leg; paw; arm",
+      "level": 5
+    },
+    {
+      "id": 30,
+      "word": "明日",
+      "romaji_reading": "ashita あした",
+      "pos": "Noun, Temporal noun",
+      "meaning": "tomorrow",
+      "level": 5
+    },
+    {
+      "id": 31,
+      "word": "遊ぶ",
+      "romaji_reading": "asobu あそぶ",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to play; to enjoy oneself",
+      "level": 5
+    },
+    {
+      "id": 32,
+      "word": "あそこ",
+      "romaji_reading": "asoko",
+      "pos": "Pronoun",
+      "meaning": "over there",
+      "level": 5
+    },
+    {
+      "id": 33,
+      "word": "頭",
+      "romaji_reading": "atama あたま",
+      "pos": "Noun",
+      "meaning": "head",
+      "level": 5
+    },
+    {
+      "id": 34,
+      "word": "新しい",
+      "romaji_reading": "atarashii あたらしい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "new; novel; fresh; recent; latest",
+      "level": 5
+    },
+    {
+      "id": 35,
+      "word": "暖かい",
+      "romaji_reading": "atatakai あたたかい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "warm",
+      "level": 5
+    },
+    {
+      "id": 36,
+      "word": "後",
+      "romaji_reading": "ato あと",
+      "pos": "Noun",
+      "meaning": "behind; after; remainder; left; also",
+      "level": 5
+    },
+    {
+      "id": 37,
+      "word": "暑い",
+      "romaji_reading": "atsui あつい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "hot; sultry",
+      "level": 5
+    },
+    {
+      "id": 38,
+      "word": "厚い",
+      "romaji_reading": "atsui あつい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "thick",
+      "level": 5
+    },
+    {
+      "id": 39,
+      "word": "熱い",
+      "romaji_reading": "atsui あつい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "hot",
+      "level": 5
+    },
+    {
+      "id": 40,
+      "word": "会う",
+      "romaji_reading": "au あう",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to meet; to encounter; to see",
+      "level": 5
+    },
+    {
+      "id": 41,
+      "word": "晩ご飯",
+      "romaji_reading": "bangohan ばんごはん",
+      "pos": "Noun",
+      "meaning": "dinner; evening meal",
+      "level": 5
+    },
+    {
+      "id": 42,
+      "word": "番号",
+      "romaji_reading": "bangou ばんごう",
+      "pos": "Noun",
+      "meaning": "number",
+      "level": 5
+    },
+    {
+      "id": 43,
+      "word": "バス",
+      "romaji_reading": "basu",
+      "pos": "Noun, Katakana",
+      "meaning": "bus",
+      "level": 5
+    },
+    {
+      "id": 44,
+      "word": "バター",
+      "romaji_reading": "bataa",
+      "pos": "Noun, Katakana",
+      "meaning": "butter",
+      "level": 5
+    },
+    {
+      "id": 45,
+      "word": "ベッド",
+      "romaji_reading": "beddo",
+      "pos": "Noun, Katakana",
+      "meaning": "bed",
+      "level": 5
+    },
+    {
+      "id": 46,
+      "word": "勉強",
+      "romaji_reading": "benkyou べんきょう",
+      "pos": "Noun, Suru verb",
+      "meaning": "to study",
+      "level": 5
+    },
+    {
+      "id": 47,
+      "word": "便利",
+      "romaji_reading": "benri べんり",
+      "pos": "な-adjective",
+      "meaning": "convenient; handy; useful",
+      "level": 5
+    },
+    {
+      "id": 48,
+      "word": "ボールペン",
+      "romaji_reading": "boorupen",
+      "pos": "Noun, Katakana",
+      "meaning": "ball-point pen",
+      "level": 5
+    },
+    {
+      "id": 49,
+      "word": "ボタン",
+      "romaji_reading": "botan",
+      "pos": "Noun, Katakana",
+      "meaning": "button",
+      "level": 5
+    },
+    {
+      "id": 50,
+      "word": "帽子",
+      "romaji_reading": "boushi ぼうし",
+      "pos": "Noun",
+      "meaning": "hat; cap",
+      "level": 5
+    },
+    {
+      "id": 51,
+      "word": "文章",
+      "romaji_reading": "bunshou ぶんしょう",
+      "pos": "Noun",
+      "meaning": "sentence",
+      "level": 5
+    },
+    {
+      "id": 52,
+      "word": "豚肉",
+      "romaji_reading": "butaniku ぶたにく",
+      "pos": "Noun",
+      "meaning": "pork",
+      "level": 5
+    },
+    {
+      "id": 53,
+      "word": "病院",
+      "romaji_reading": "byouin びょういん",
+      "pos": "Noun",
+      "meaning": "hospital",
+      "level": 5
+    },
+    {
+      "id": 54,
+      "word": "病気",
+      "romaji_reading": "byouki びょうき",
+      "pos": "Noun",
+      "meaning": "illness; disease; sickness",
+      "level": 5
+    },
+    {
+      "id": 55,
+      "word": "茶色",
+      "romaji_reading": "chairo ちゃいろ",
+      "pos": "Noun",
+      "meaning": "brown",
+      "level": 5
+    },
+    {
+      "id": 56,
+      "word": "茶碗",
+      "romaji_reading": "chawan ちゃわん",
+      "pos": "Noun",
+      "meaning": "rice bowl; tea cup; teacup",
+      "level": 5
+    },
+    {
+      "id": 57,
+      "word": "父",
+      "romaji_reading": "chichi ちち",
+      "pos": "Noun",
+      "meaning": "father",
+      "level": 5
+    },
+    {
+      "id": 58,
+      "word": "違う",
+      "romaji_reading": "chigau ちがう",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to differ",
+      "level": 5
+    },
+    {
+      "id": 59,
+      "word": "小さい",
+      "romaji_reading": "chiisai ちいさい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "small; little; tiny",
+      "level": 5
+    },
+    {
+      "id": 60,
+      "word": "小さな",
+      "romaji_reading": "chiisana ちいさな",
+      "pos": "Pre-noun adjectival",
+      "meaning": "small; little; tiny",
+      "level": 5
+    },
+    {
+      "id": 61,
+      "word": "近い",
+      "romaji_reading": "chikai ちかい",
+      "pos": "い-adjective",
+      "meaning": "near; close",
+      "level": 5
+    },
+    {
+      "id": 62,
+      "word": "地下鉄",
+      "romaji_reading": "chikatetsu ちかてつ",
+      "pos": "Noun",
+      "meaning": "subway; underground train",
+      "level": 5
+    },
+    {
+      "id": 63,
+      "word": "地図",
+      "romaji_reading": "chizu ちず",
+      "pos": "Noun",
+      "meaning": "map",
+      "level": 5
+    },
+    {
+      "id": 64,
+      "word": "ちょっと",
+      "romaji_reading": "chotto",
+      "pos": "Adverb",
+      "meaning": "a little",
+      "level": 5
+    },
+    {
+      "id": 65,
+      "word": "丁度",
+      "romaji_reading": "choudo ちょうど",
+      "pos": "Adverb",
+      "meaning": "exactly",
+      "level": 5
+    },
+    {
+      "id": 66,
+      "word": "台所",
+      "romaji_reading": "daidokoro だいどころ",
+      "pos": "Noun",
+      "meaning": "kitchen",
+      "level": 5
+    },
+    {
+      "id": 67,
+      "word": "大学",
+      "romaji_reading": "daigaku だいがく",
+      "pos": "Noun",
+      "meaning": "university; college",
+      "level": 5
+    },
+    {
+      "id": 68,
+      "word": "大丈夫",
+      "romaji_reading": "daijoubu だいじょうぶ",
+      "pos": "Adjective, な-adjective, Adverb",
+      "meaning": "OK; okay; alright; problem free",
+      "level": 5
+    },
+    {
+      "id": 69,
+      "word": "大好き",
+      "romaji_reading": "daisuki だいすき",
+      "pos": "Adjective, な-adjective",
+      "meaning": "love; like; like very much",
+      "level": 5
+    },
+    {
+      "id": 70,
+      "word": "だんだん",
+      "romaji_reading": "dandan",
+      "pos": "Adverb",
+      "meaning": "gradually",
+      "level": 5
+    },
+    {
+      "id": 71,
+      "word": "誰",
+      "romaji_reading": "dare だれ",
+      "pos": "Pronoun",
+      "meaning": "who",
+      "level": 5
+    },
+    {
+      "id": 72,
+      "word": "誰か",
+      "romaji_reading": "dareka だれか",
+      "pos": "Pronoun",
+      "meaning": "someone; somebody",
+      "level": 5
+    },
+    {
+      "id": 73,
+      "word": "出す",
+      "romaji_reading": "dasu だす",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to take out; to get out; to put out; to reveal",
+      "level": 5
+    },
+    {
+      "id": 74,
+      "word": "出口",
+      "romaji_reading": "deguchi でぐち",
+      "pos": "Noun",
+      "meaning": "exit; gateway; way out",
+      "level": 5
+    },
+    {
+      "id": 75,
+      "word": "出かける",
+      "romaji_reading": "dekakeru でかける",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to go out; to leave; to depart",
+      "level": 5
+    },
+    {
+      "id": 76,
+      "word": "電気",
+      "romaji_reading": "denki でんき",
+      "pos": "Noun",
+      "meaning": "electricity",
+      "level": 5
+    },
+    {
+      "id": 77,
+      "word": "電車",
+      "romaji_reading": "densha でんしゃ",
+      "pos": "Noun",
+      "meaning": "train; electric train",
+      "level": 5
+    },
+    {
+      "id": 78,
+      "word": "電話",
+      "romaji_reading": "denwa でんわ",
+      "pos": "Noun, Verb, Suru verb",
+      "meaning": "telephone (call / device)l; phone call",
+      "level": 5
+    },
+    {
+      "id": 79,
+      "word": "デパート",
+      "romaji_reading": "depaato",
+      "pos": "Noun, Katakana",
+      "meaning": "department store",
+      "level": 5
+    },
+    {
+      "id": 80,
+      "word": "出る",
+      "romaji_reading": "deru でる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to leave; to exit; to appear; to go out",
+      "level": 5
+    },
+    {
+      "id": 81,
+      "word": "ドア",
+      "romaji_reading": "doa",
+      "pos": "Noun, Katakana",
+      "meaning": "door",
+      "level": 5
+    },
+    {
+      "id": 82,
+      "word": "どっち",
+      "romaji_reading": "docchi",
+      "pos": "Pronoun",
+      "meaning": "which; which one",
+      "level": 5
+    },
+    {
+      "id": 83,
+      "word": "どちら",
+      "romaji_reading": "dochira",
+      "pos": "Pronoun",
+      "meaning": "which of two",
+      "level": 5
+    },
+    {
+      "id": 84,
+      "word": "どこ",
+      "romaji_reading": "doko",
+      "pos": "Pronoun",
+      "meaning": "where; what place",
+      "level": 5
+    },
+    {
+      "id": 85,
+      "word": "どなた",
+      "romaji_reading": "donata",
+      "pos": "Noun",
+      "meaning": "who",
+      "level": 5
+    },
+    {
+      "id": 86,
+      "word": "どの",
+      "romaji_reading": "dono",
+      "pos": "Pre-noun adjectival",
+      "meaning": "which",
+      "level": 5
+    },
+    {
+      "id": 87,
+      "word": "どれ",
+      "romaji_reading": "dore",
+      "pos": "Pronoun",
+      "meaning": "which (of three or more)",
+      "level": 5
+    },
+    {
+      "id": 88,
+      "word": "どう",
+      "romaji_reading": "dou",
+      "pos": "Adverb",
+      "meaning": "how; in what way; how about",
+      "level": 5
+    },
+    {
+      "id": 89,
+      "word": "動物",
+      "romaji_reading": "doubutsu どうぶつ",
+      "pos": "Noun",
+      "meaning": "animal",
+      "level": 5
+    },
+    {
+      "id": 90,
+      "word": "どうも",
+      "romaji_reading": "doumo",
+      "pos": "Adverb",
+      "meaning": "thank you; thanks",
+      "level": 5
+    },
+    {
+      "id": 91,
+      "word": "どうぞ",
+      "romaji_reading": "douzo",
+      "pos": "Adverb",
+      "meaning": "please",
+      "level": 5
+    },
+    {
+      "id": 92,
+      "word": "土曜日",
+      "romaji_reading": "doyoubi どようび",
+      "pos": "Noun",
+      "meaning": "Saturday",
+      "level": 5
+    },
+    {
+      "id": 93,
+      "word": "絵",
+      "romaji_reading": "e え",
+      "pos": "Noun",
+      "meaning": "picture",
+      "level": 5
+    },
+    {
+      "id": 94,
+      "word": "ええ",
+      "romaji_reading": "ee",
+      "pos": "Noun",
+      "meaning": "yes; that is correct; right",
+      "level": 5
+    },
+    {
+      "id": 95,
+      "word": "映画",
+      "romaji_reading": "eiga えいが",
+      "pos": "Noun",
+      "meaning": "movie; film",
+      "level": 5
+    },
+    {
+      "id": 96,
+      "word": "映画館",
+      "romaji_reading": "eigakan えいがかん",
+      "pos": "Noun",
+      "meaning": "movie theater; cinema",
+      "level": 5
+    },
+    {
+      "id": 97,
+      "word": "英語",
+      "romaji_reading": "eigo えいご",
+      "pos": "Noun",
+      "meaning": "English language",
+      "level": 5
+    },
+    {
+      "id": 98,
+      "word": "駅",
+      "romaji_reading": "eki えき",
+      "pos": "Noun",
+      "meaning": "station",
+      "level": 5
+    },
+    {
+      "id": 99,
+      "word": "鉛筆",
+      "romaji_reading": "enpitsu えんぴつ",
+      "pos": "Noun",
+      "meaning": "pencil",
+      "level": 5
+    },
+    {
+      "id": 100,
+      "word": "エレベーター",
+      "romaji_reading": "erebeetaa",
+      "pos": "Noun, Katakana",
+      "meaning": "elevator",
+      "level": 5
+    },
+    {
+      "id": 101,
+      "word": "フィルム",
+      "romaji_reading": "firumu",
+      "pos": "Noun, Katakana",
+      "meaning": "film",
+      "level": 5
+    },
+    {
+      "id": 102,
+      "word": "フォーク",
+      "romaji_reading": "fooku",
+      "pos": "Noun, Katakana",
+      "meaning": "fork",
+      "level": 5
+    },
+    {
+      "id": 103,
+      "word": "服",
+      "romaji_reading": "fuku ふく",
+      "pos": "Noun",
+      "meaning": "clothes",
+      "level": 5
+    },
+    {
+      "id": 104,
+      "word": "吹く",
+      "romaji_reading": "fuku ふく",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to blow (of the wind)",
+      "level": 5
+    },
+    {
+      "id": 105,
+      "word": "降る",
+      "romaji_reading": "furu ふる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to fall",
+      "level": 5
+    },
+    {
+      "id": 106,
+      "word": "古い",
+      "romaji_reading": "furui ふるい",
+      "pos": "い-adjective",
+      "meaning": "old (not used for people)",
+      "level": 5
+    },
+    {
+      "id": 107,
+      "word": "二人",
+      "romaji_reading": "futari ふたり",
+      "pos": "Noun",
+      "meaning": "two people; pair; couple",
+      "level": 5
+    },
+    {
+      "id": 108,
+      "word": "二つ",
+      "romaji_reading": "futatsu ふたつ",
+      "pos": "Noun, Numeric",
+      "meaning": "two; 2",
+      "level": 5
+    },
+    {
+      "id": 109,
+      "word": "太い",
+      "romaji_reading": "futoi ふとい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "fat; thick",
+      "level": 5
+    },
+    {
+      "id": 110,
+      "word": "二日",
+      "romaji_reading": "futsuka ふつか",
+      "pos": "Noun",
+      "meaning": "the second day of the month / 2 days",
+      "level": 5
+    },
+    {
+      "id": 111,
+      "word": "封筒",
+      "romaji_reading": "fuutou ふうとう",
+      "pos": "Noun",
+      "meaning": "envelope",
+      "level": 5
+    },
+    {
+      "id": 112,
+      "word": "冬",
+      "romaji_reading": "fuyu ふゆ",
+      "pos": "Noun",
+      "meaning": "winter",
+      "level": 5
+    },
+    {
+      "id": 113,
+      "word": "外国",
+      "romaji_reading": "gaikoku がいこく",
+      "pos": "Noun",
+      "meaning": "foreign country",
+      "level": 5
+    },
+    {
+      "id": 114,
+      "word": "外国人",
+      "romaji_reading": "gaikokujin がいこくじん",
+      "pos": "Noun",
+      "meaning": "foreigner; foreign citizen; foreign national; alien; non-Japanese",
+      "level": 5
+    },
+    {
+      "id": 115,
+      "word": "学校",
+      "romaji_reading": "gakkou がっこう",
+      "pos": "Noun",
+      "meaning": "school",
+      "level": 5
+    },
+    {
+      "id": 116,
+      "word": "学生",
+      "romaji_reading": "gakusei がくせい",
+      "pos": "Noun",
+      "meaning": "student",
+      "level": 5
+    },
+    {
+      "id": 117,
+      "word": "玄関",
+      "romaji_reading": "genkan げんかん",
+      "pos": "Noun",
+      "meaning": "entrance",
+      "level": 5
+    },
+    {
+      "id": 118,
+      "word": "元気",
+      "romaji_reading": "genki げんき",
+      "pos": "Noun, Adjective, な-adjective",
+      "meaning": "lively; full of spirit; energetic; healthy",
+      "level": 5
+    },
+    {
+      "id": 119,
+      "word": "月曜日",
+      "romaji_reading": "getsuyoubi げつようび",
+      "pos": "Noun",
+      "meaning": "Monday",
+      "level": 5
+    },
+    {
+      "id": 120,
+      "word": "銀行",
+      "romaji_reading": "ginkou ぎんこう",
+      "pos": "Noun",
+      "meaning": "bank",
+      "level": 5
+    },
+    {
+      "id": 121,
+      "word": "ギター",
+      "romaji_reading": "gitaa",
+      "pos": "Noun, Katakana",
+      "meaning": "guitar",
+      "level": 5
+    },
+    {
+      "id": 122,
+      "word": "五",
+      "romaji_reading": "go ご",
+      "pos": "Noun, Numeric",
+      "meaning": "five; 5",
+      "level": 5
+    },
+    {
+      "id": 123,
+      "word": "午後",
+      "romaji_reading": "gogo ごご",
+      "pos": "Noun",
+      "meaning": "afternoon; p.m.",
+      "level": 5
+    },
+    {
+      "id": 124,
+      "word": "ご飯",
+      "romaji_reading": "gohan ごはん",
+      "pos": "Noun",
+      "meaning": "uncooked rice, meal",
+      "level": 5
+    },
+    {
+      "id": 125,
+      "word": "午前",
+      "romaji_reading": "gozen ごぜん",
+      "pos": "Noun",
+      "meaning": "morning; a.m.",
+      "level": 5
+    },
+    {
+      "id": 126,
+      "word": "グラム",
+      "romaji_reading": "guramu",
+      "pos": "Noun, Katakana",
+      "meaning": "gram",
+      "level": 5
+    },
+    {
+      "id": 127,
+      "word": "牛肉",
+      "romaji_reading": "gyuuniku ぎゅうにく",
+      "pos": "Noun",
+      "meaning": "beef",
+      "level": 5
+    },
+    {
+      "id": 128,
+      "word": "牛乳",
+      "romaji_reading": "gyuunyuu ぎゅうにゅう",
+      "pos": "Noun",
+      "meaning": "(cow's) milk",
+      "level": 5
+    },
+    {
+      "id": 129,
+      "word": "歯",
+      "romaji_reading": "ha は",
+      "pos": "Noun",
+      "meaning": "tooth",
+      "level": 5
+    },
+    {
+      "id": 130,
+      "word": "八",
+      "romaji_reading": "hachi はち",
+      "pos": "Noun, Numeric",
+      "meaning": "eight: 8",
+      "level": 5
+    },
+    {
+      "id": 131,
+      "word": "葉書",
+      "romaji_reading": "hagaki はがき",
+      "pos": "Noun",
+      "meaning": "postcard",
+      "level": 5
+    },
+    {
+      "id": 132,
+      "word": "母",
+      "romaji_reading": "haha はは",
+      "pos": "Noun",
+      "meaning": "mother",
+      "level": 5
+    },
+    {
+      "id": 133,
+      "word": "はい",
+      "romaji_reading": "hai",
+      "pos": "Noun",
+      "meaning": "yes; that is correct",
+      "level": 5
+    },
+    {
+      "id": 134,
+      "word": "入る",
+      "romaji_reading": "hairu はいる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to enter; to go into",
+      "level": 5
+    },
+    {
+      "id": 135,
+      "word": "灰皿",
+      "romaji_reading": "haizara はいざら",
+      "pos": "Noun",
+      "meaning": "ashtray",
+      "level": 5
+    },
+    {
+      "id": 136,
+      "word": "始まる",
+      "romaji_reading": "hajimaru はじまる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to begin",
+      "level": 5
+    },
+    {
+      "id": 137,
+      "word": "初めて",
+      "romaji_reading": "hajimete はじめて",
+      "pos": "Adverb",
+      "meaning": "for the first time",
+      "level": 5
+    },
+    {
+      "id": 138,
+      "word": "箱",
+      "romaji_reading": "hako はこ",
+      "pos": "Noun",
+      "meaning": "box; crate",
+      "level": 5
+    },
+    {
+      "id": 139,
+      "word": "履く",
+      "romaji_reading": "haku はく",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to wear, to put on trousers",
+      "level": 5
+    },
+    {
+      "id": 140,
+      "word": "半",
+      "romaji_reading": "han はん",
+      "pos": "Noun",
+      "meaning": "half; semi-; half-past",
+      "level": 5
+    },
+    {
+      "id": 141,
+      "word": "花",
+      "romaji_reading": "hana はな",
+      "pos": "Noun",
+      "meaning": "flower",
+      "level": 5
+    },
+    {
+      "id": 142,
+      "word": "鼻",
+      "romaji_reading": "hana はな",
+      "pos": "Noun",
+      "meaning": "nose",
+      "level": 5
+    },
+    {
+      "id": 143,
+      "word": "話",
+      "romaji_reading": "hanashi はなし",
+      "pos": "Noun",
+      "meaning": "talk; speech; chat; conversation",
+      "level": 5
+    },
+    {
+      "id": 144,
+      "word": "話す",
+      "romaji_reading": "hanasu はなす",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to speak; to talk; to converse",
+      "level": 5
+    },
+    {
+      "id": 145,
+      "word": "半分",
+      "romaji_reading": "hanbun はんぶん",
+      "pos": "Noun",
+      "meaning": "half",
+      "level": 5
+    },
+    {
+      "id": 146,
+      "word": "ハンカチ",
+      "romaji_reading": "hankachi",
+      "pos": "Noun, Katakana",
+      "meaning": "handkerchief",
+      "level": 5
+    },
+    {
+      "id": 147,
+      "word": "晴れ",
+      "romaji_reading": "hare はれ",
+      "pos": "Noun",
+      "meaning": "clear weather",
+      "level": 5
+    },
+    {
+      "id": 148,
+      "word": "晴れる",
+      "romaji_reading": "hareru はれる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to be sunny",
+      "level": 5
+    },
+    {
+      "id": 149,
+      "word": "春",
+      "romaji_reading": "haru はる",
+      "pos": "Noun",
+      "meaning": "spring; springtime",
+      "level": 5
+    },
+    {
+      "id": 150,
+      "word": "貼る",
+      "romaji_reading": "haru はる",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to stick; to paste",
+      "level": 5
+    },
+    {
+      "id": 151,
+      "word": "箸",
+      "romaji_reading": "hashi はし",
+      "pos": "Noun",
+      "meaning": "chopsticks",
+      "level": 5
+    },
+    {
+      "id": 152,
+      "word": "橋",
+      "romaji_reading": "hashi はし",
+      "pos": "Noun",
+      "meaning": "bridge",
+      "level": 5
+    },
+    {
+      "id": 153,
+      "word": "走る",
+      "romaji_reading": "hashiru はしる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to run",
+      "level": 5
+    },
+    {
+      "id": 154,
+      "word": "二十歳",
+      "romaji_reading": "hatachi はたち",
+      "pos": "Noun",
+      "meaning": "20 years old; twenty years old",
+      "level": 5
+    },
+    {
+      "id": 155,
+      "word": "働く",
+      "romaji_reading": "hataraku はたらく",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to work",
+      "level": 5
+    },
+    {
+      "id": 156,
+      "word": "二十日",
+      "romaji_reading": "hatsuka はつか",
+      "pos": "Noun",
+      "meaning": "twentieth day of the month / 20 days",
+      "level": 5
+    },
+    {
+      "id": 157,
+      "word": "速い",
+      "romaji_reading": "hayai はやい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "fast; quick; hasty; brisk",
+      "level": 5
+    },
+    {
+      "id": 158,
+      "word": "早い",
+      "romaji_reading": "hayai はやい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "fast; early",
+      "level": 5
+    },
+    {
+      "id": 159,
+      "word": "辺",
+      "romaji_reading": "hen へん",
+      "pos": "Noun",
+      "meaning": "area",
+      "level": 5
+    },
+    {
+      "id": 160,
+      "word": "下手",
+      "romaji_reading": "heta へた",
+      "pos": "Noun, Adjective, な-adjective",
+      "meaning": "unskillful; poor; awkward",
+      "level": 5
+    },
+    {
+      "id": 161,
+      "word": "部屋",
+      "romaji_reading": "heya へや",
+      "pos": "Noun",
+      "meaning": "room",
+      "level": 5
+    },
+    {
+      "id": 162,
+      "word": "左",
+      "romaji_reading": "hidari ひだり",
+      "pos": "Noun",
+      "meaning": "left; left hand side",
+      "level": 5
+    },
+    {
+      "id": 163,
+      "word": "東",
+      "romaji_reading": "higashi ひがし",
+      "pos": "Noun",
+      "meaning": "east",
+      "level": 5
+    },
+    {
+      "id": 164,
+      "word": "飛行機",
+      "romaji_reading": "hikouki ひこうき",
+      "pos": "Noun",
+      "meaning": "airplane; aircraft",
+      "level": 5
+    },
+    {
+      "id": 165,
+      "word": "引く",
+      "romaji_reading": "hiku ひく",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to pull",
+      "level": 5
+    },
+    {
+      "id": 166,
+      "word": "弾く",
+      "romaji_reading": "hiku ひく",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to play",
+      "level": 5
+    },
+    {
+      "id": 167,
+      "word": "低い",
+      "romaji_reading": "hikui ひくい",
+      "pos": "い-adjective",
+      "meaning": "short,low",
+      "level": 5
+    },
+    {
+      "id": 168,
+      "word": "暇",
+      "romaji_reading": "hima ひま",
+      "pos": "Noun, な-adjective",
+      "meaning": "free time",
+      "level": 5
+    },
+    {
+      "id": 169,
+      "word": "広い",
+      "romaji_reading": "hiroi ひろい",
+      "pos": "い-adjective",
+      "meaning": "spacious; vast; wide",
+      "level": 5
+    },
+    {
+      "id": 170,
+      "word": "昼",
+      "romaji_reading": "hiru ひる",
+      "pos": "Noun",
+      "meaning": "noon; midday; daytime; lunch",
+      "level": 5
+    },
+    {
+      "id": 171,
+      "word": "昼ご飯",
+      "romaji_reading": "hirugohan ひるごはん",
+      "pos": "Noun",
+      "meaning": "lunch",
+      "level": 5
+    },
+    {
+      "id": 172,
+      "word": "人",
+      "romaji_reading": "hito ひと",
+      "pos": "Noun",
+      "meaning": "person; human",
+      "level": 5
+    },
+    {
+      "id": 173,
+      "word": "一人",
+      "romaji_reading": "hitori ひとり",
+      "pos": "Noun, Adverb",
+      "meaning": "one person; alone; single",
+      "level": 5
+    },
+    {
+      "id": 174,
+      "word": "一つ",
+      "romaji_reading": "hitotsu ひとつ",
+      "pos": "Noun, Numeric",
+      "meaning": "one thing; only",
+      "level": 5
+    },
+    {
+      "id": 175,
+      "word": "ほか",
+      "romaji_reading": "hoka",
+      "pos": "Noun",
+      "meaning": "other (place, thing, person); the rest",
+      "level": 5
+    },
+    {
+      "id": 176,
+      "word": "本",
+      "romaji_reading": "hon ほん",
+      "pos": "Noun",
+      "meaning": "book; volume; script",
+      "level": 5
+    },
+    {
+      "id": 177,
+      "word": "本棚",
+      "romaji_reading": "hondana ほんだな",
+      "pos": "Noun",
+      "meaning": "bookshelf; bookcase",
+      "level": 5
+    },
+    {
+      "id": 178,
+      "word": "本当",
+      "romaji_reading": "hontou ほんとう",
+      "pos": "Noun, Adjective, な-adjective",
+      "meaning": "truth; reality; actuality; fact",
+      "level": 5
+    },
+    {
+      "id": 179,
+      "word": "欲しい",
+      "romaji_reading": "hoshii ほしい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "want",
+      "level": 5
+    },
+    {
+      "id": 180,
+      "word": "細い",
+      "romaji_reading": "hosoi ほそい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "thin; slender",
+      "level": 5
+    },
+    {
+      "id": 181,
+      "word": "ホテル",
+      "romaji_reading": "hoteru",
+      "pos": "Noun, Katakana",
+      "meaning": "hotel",
+      "level": 5
+    },
+    {
+      "id": 182,
+      "word": "百",
+      "romaji_reading": "hyaku ひゃく",
+      "pos": "Noun, Numeric",
+      "meaning": "100; hundred",
+      "level": 5
+    },
+    {
+      "id": 183,
+      "word": "一",
+      "romaji_reading": "ichi いち",
+      "pos": "Noun, Prefix, Suffix, Numeric",
+      "meaning": "one; best; first; foremost; start",
+      "level": 5
+    },
+    {
+      "id": 184,
+      "word": "一番",
+      "romaji_reading": "ichiban いちばん",
+      "pos": "Noun, Adverb",
+      "meaning": "number one; first; 1st, first place; best; most",
+      "level": 5
+    },
+    {
+      "id": 185,
+      "word": "一日",
+      "romaji_reading": "ichinichi いちにち",
+      "pos": "Noun, Adverbial Noun",
+      "meaning": "one day, all day",
+      "level": 5
+    },
+    {
+      "id": 186,
+      "word": "家",
+      "romaji_reading": "ie いえ",
+      "pos": "Noun",
+      "meaning": "house, residence, family",
+      "level": 5
+    },
+    {
+      "id": 187,
+      "word": "いかが",
+      "romaji_reading": "ikaga",
+      "pos": "Adverb",
+      "meaning": "how; in what way; how about",
+      "level": 5
+    },
+    {
+      "id": 188,
+      "word": "池",
+      "romaji_reading": "ike いけ",
+      "pos": "Noun",
+      "meaning": "pond",
+      "level": 5
+    },
+    {
+      "id": 189,
+      "word": "行く",
+      "romaji_reading": "iku いく",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to go; to move",
+      "level": 5
+    },
+    {
+      "id": 190,
+      "word": "いくら",
+      "romaji_reading": "ikura",
+      "pos": "Noun, Adverb",
+      "meaning": "how much?; how many?",
+      "level": 5
+    },
+    {
+      "id": 191,
+      "word": "いくつ",
+      "romaji_reading": "ikutsu",
+      "pos": "Adverb",
+      "meaning": "how many?,how old?",
+      "level": 5
+    },
+    {
+      "id": 192,
+      "word": "今",
+      "romaji_reading": "ima いま",
+      "pos": "Noun, Adverbial Noun",
+      "meaning": "now; the present time; soon",
+      "level": 5
+    },
+    {
+      "id": 193,
+      "word": "意味",
+      "romaji_reading": "imi いみ",
+      "pos": "Noun",
+      "meaning": "meaning; significance; sense",
+      "level": 5
+    },
+    {
+      "id": 194,
+      "word": "妹",
+      "romaji_reading": "imouto いもうと",
+      "pos": "Noun",
+      "meaning": "younger sister",
+      "level": 5
+    },
+    {
+      "id": 195,
+      "word": "犬",
+      "romaji_reading": "inu いぬ",
+      "pos": "Noun",
+      "meaning": "dog",
+      "level": 5
+    },
+    {
+      "id": 196,
+      "word": "入れる",
+      "romaji_reading": "ireru いれる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to put in; to let in; to take in; to bring in; to insert; to install",
+      "level": 5
+    },
+    {
+      "id": 197,
+      "word": "入口",
+      "romaji_reading": "iriguchi いりぐち",
+      "pos": "Noun",
+      "meaning": "entrance; entry; gate",
+      "level": 5
+    },
+    {
+      "id": 198,
+      "word": "色",
+      "romaji_reading": "iro いろ",
+      "pos": "Noun",
+      "meaning": "colour; color",
+      "level": 5
+    },
+    {
+      "id": 199,
+      "word": "色々",
+      "romaji_reading": "iroiro いろいろ",
+      "pos": "Noun, Adjective, な-adjective, Adverb",
+      "meaning": "various",
+      "level": 5
+    },
+    {
+      "id": 200,
+      "word": "要る",
+      "romaji_reading": "iru いる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to be needed",
+      "level": 5
+    },
+    {
+      "id": 201,
+      "word": "居る",
+      "romaji_reading": "iru いる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to be, to have",
+      "level": 5
+    },
+    {
+      "id": 202,
+      "word": "医者",
+      "romaji_reading": "isha いしゃ",
+      "pos": "Noun",
+      "meaning": "(medical) doctor; physician",
+      "level": 5
+    },
+    {
+      "id": 203,
+      "word": "忙しい",
+      "romaji_reading": "isogashii いそがしい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "busy",
+      "level": 5
+    },
+    {
+      "id": 204,
+      "word": "一緒",
+      "romaji_reading": "issho いっしょ",
+      "pos": "Noun",
+      "meaning": "together; at the same time; same; identical",
+      "level": 5
+    },
+    {
+      "id": 205,
+      "word": "椅子",
+      "romaji_reading": "isu いす",
+      "pos": "Noun",
+      "meaning": "chair",
+      "level": 5
+    },
+    {
+      "id": 206,
+      "word": "痛い",
+      "romaji_reading": "itai いたい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "painful; sore",
+      "level": 5
+    },
+    {
+      "id": 207,
+      "word": "いつ",
+      "romaji_reading": "itsu",
+      "pos": "Pronoun",
+      "meaning": "when",
+      "level": 5
+    },
+    {
+      "id": 208,
+      "word": "五日",
+      "romaji_reading": "itsuka いつか",
+      "pos": "Noun",
+      "meaning": "the fifth day of the month / 5 days",
+      "level": 5
+    },
+    {
+      "id": 209,
+      "word": "五つ",
+      "romaji_reading": "itsutsu いつつ",
+      "pos": "Noun, Numeric",
+      "meaning": "five; 5",
+      "level": 5
+    },
+    {
+      "id": 210,
+      "word": "言う",
+      "romaji_reading": "iu いう",
+      "pos": "Verb, Godan verb",
+      "meaning": "to say; to call",
+      "level": 5
+    },
+    {
+      "id": 211,
+      "word": "嫌",
+      "romaji_reading": "iya いや",
+      "pos": "Noun, Adjective, な-adjective",
+      "meaning": "unpleasant",
+      "level": 5
+    },
+    {
+      "id": 212,
+      "word": "じゃあ",
+      "romaji_reading": "jaa",
+      "pos": "Conjunction",
+      "meaning": "then; well; so; well then",
+      "level": 5
+    },
+    {
+      "id": 213,
+      "word": "字引",
+      "romaji_reading": "jibiki じびき",
+      "pos": "Noun",
+      "meaning": "dictionary",
+      "level": 5
+    },
+    {
+      "id": 214,
+      "word": "自分",
+      "romaji_reading": "jibun じぶん",
+      "pos": "Pronoun",
+      "meaning": "myself; yourself; oneself; himself; herself; i; me",
+      "level": 5
+    },
+    {
+      "id": 215,
+      "word": "自動車",
+      "romaji_reading": "jidousha じどうしゃ",
+      "pos": "Noun",
+      "meaning": "automobile; motorcar; motor vehicle; car",
+      "level": 5
+    },
+    {
+      "id": 216,
+      "word": "時間",
+      "romaji_reading": "jikan じかん",
+      "pos": "Noun",
+      "meaning": "time; hour(s)",
+      "level": 5
+    },
+    {
+      "id": 217,
+      "word": "辞書",
+      "romaji_reading": "jisho じしょ",
+      "pos": "Noun",
+      "meaning": "dictionary",
+      "level": 5
+    },
+    {
+      "id": 218,
+      "word": "自転車",
+      "romaji_reading": "jitensha じてんしゃ",
+      "pos": "Noun",
+      "meaning": "bicycle",
+      "level": 5
+    },
+    {
+      "id": 219,
+      "word": "丈夫",
+      "romaji_reading": "joubu じょうぶ",
+      "pos": "Adjective, な-adjective",
+      "meaning": "strong, durable",
+      "level": 5
+    },
+    {
+      "id": 220,
+      "word": "上手",
+      "romaji_reading": "jouzu じょうず",
+      "pos": "Noun, Adjective, な-adjective",
+      "meaning": "skillful; skilled; proficient; good (at)",
+      "level": 5
+    },
+    {
+      "id": 221,
+      "word": "授業",
+      "romaji_reading": "jugyou じゅぎょう",
+      "pos": "Noun, Suru verb",
+      "meaning": "lesson; class work",
+      "level": 5
+    },
+    {
+      "id": 222,
+      "word": "十",
+      "romaji_reading": "juu じゅう",
+      "pos": "Noun, Numeric",
+      "meaning": "ten; 10",
+      "level": 5
+    },
+    {
+      "id": 223,
+      "word": "かばん",
+      "romaji_reading": "kaban",
+      "pos": "Noun",
+      "meaning": "bag; basket",
+      "level": 5
+    },
+    {
+      "id": 224,
+      "word": "花瓶",
+      "romaji_reading": "kabin かびん",
+      "pos": "Noun",
+      "meaning": "a vase",
+      "level": 5
+    },
+    {
+      "id": 225,
+      "word": "角",
+      "romaji_reading": "kado かど",
+      "pos": "Noun",
+      "meaning": "a corner; angle",
+      "level": 5
+    },
+    {
+      "id": 226,
+      "word": "帰る",
+      "romaji_reading": "kaeru かえる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to go back",
+      "level": 5
+    },
+    {
+      "id": 227,
+      "word": "返す",
+      "romaji_reading": "kaesu かえす",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to return something",
+      "level": 5
+    },
+    {
+      "id": 228,
+      "word": "鍵",
+      "romaji_reading": "kagi かぎ",
+      "pos": "Noun",
+      "meaning": "key",
+      "level": 5
+    },
+    {
+      "id": 229,
+      "word": "階段",
+      "romaji_reading": "kaidan かいだん",
+      "pos": "Noun",
+      "meaning": "stairs; stairway; staircase",
+      "level": 5
+    },
+    {
+      "id": 230,
+      "word": "買い物",
+      "romaji_reading": "kaimono かいもの",
+      "pos": "Noun",
+      "meaning": "shopping; purchased goods",
+      "level": 5
+    },
+    {
+      "id": 231,
+      "word": "会社",
+      "romaji_reading": "kaisha かいしゃ",
+      "pos": "Noun",
+      "meaning": "company; corporation",
+      "level": 5
+    },
+    {
+      "id": 232,
+      "word": "掛かる",
+      "romaji_reading": "kakaru かかる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to take (a resource, e.g. time or money)",
+      "level": 5
+    },
+    {
+      "id": 233,
+      "word": "掛ける",
+      "romaji_reading": "kakeru かける",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to hang up; to make (a call);",
+      "level": 5
+    },
+    {
+      "id": 234,
+      "word": "書く",
+      "romaji_reading": "kaku かく",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to write; to compose; to pen; to draw",
+      "level": 5
+    },
+    {
+      "id": 235,
+      "word": "カメラ",
+      "romaji_reading": "kamera",
+      "pos": "Noun, Katakana",
+      "meaning": "camera",
+      "level": 5
+    },
+    {
+      "id": 236,
+      "word": "紙",
+      "romaji_reading": "kami かみ",
+      "pos": "Noun",
+      "meaning": "paper",
+      "level": 5
+    },
+    {
+      "id": 237,
+      "word": "漢字",
+      "romaji_reading": "kanji かんじ",
+      "pos": "Noun",
+      "meaning": "kanji",
+      "level": 5
+    },
+    {
+      "id": 238,
+      "word": "カップ",
+      "romaji_reading": "kappu",
+      "pos": "Noun, Katakana",
+      "meaning": "cup",
+      "level": 5
+    },
+    {
+      "id": 239,
+      "word": "体",
+      "romaji_reading": "karada からだ",
+      "pos": "Noun",
+      "meaning": "body",
+      "level": 5
+    },
+    {
+      "id": 240,
+      "word": "辛い",
+      "romaji_reading": "karai からい",
+      "pos": "い-adjective",
+      "meaning": "spicy",
+      "level": 5
+    },
+    {
+      "id": 241,
+      "word": "カレー",
+      "romaji_reading": "karee",
+      "pos": "Noun, Katakana",
+      "meaning": "curry",
+      "level": 5
+    },
+    {
+      "id": 242,
+      "word": "カレンダー",
+      "romaji_reading": "karendaa",
+      "pos": "Noun, Katakana",
+      "meaning": "calendar",
+      "level": 5
+    },
+    {
+      "id": 243,
+      "word": "借りる",
+      "romaji_reading": "kariru かりる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to borrow",
+      "level": 5
+    },
+    {
+      "id": 244,
+      "word": "軽い",
+      "romaji_reading": "karui かるい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "light",
+      "level": 5
+    },
+    {
+      "id": 245,
+      "word": "傘",
+      "romaji_reading": "kasa かさ",
+      "pos": "Noun",
+      "meaning": "umbrella",
+      "level": 5
+    },
+    {
+      "id": 246,
+      "word": "貸す",
+      "romaji_reading": "kasu かす",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to lend; to loan",
+      "level": 5
+    },
+    {
+      "id": 247,
+      "word": "方",
+      "romaji_reading": "kata かた",
+      "pos": "Noun",
+      "meaning": "way of doing something",
+      "level": 5
+    },
+    {
+      "id": 248,
+      "word": "家庭",
+      "romaji_reading": "katei かてい",
+      "pos": "Noun",
+      "meaning": "household",
+      "level": 5
+    },
+    {
+      "id": 249,
+      "word": "買う",
+      "romaji_reading": "kau かう",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to buy; to purchase",
+      "level": 5
+    },
+    {
+      "id": 250,
+      "word": "川",
+      "romaji_reading": "kawa かわ",
+      "pos": "Noun, Suffix",
+      "meaning": "river; stream",
+      "level": 5
+    },
+    {
+      "id": 251,
+      "word": "可愛い",
+      "romaji_reading": "kawaii かわいい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "cute",
+      "level": 5
+    },
+    {
+      "id": 252,
+      "word": "火曜日",
+      "romaji_reading": "kayoubi かようび",
+      "pos": "Noun",
+      "meaning": "Tuesday",
+      "level": 5
+    },
+    {
+      "id": 253,
+      "word": "風",
+      "romaji_reading": "kaze かぜ",
+      "pos": "Noun",
+      "meaning": "wind",
+      "level": 5
+    },
+    {
+      "id": 254,
+      "word": "風邪",
+      "romaji_reading": "kaze かぜ",
+      "pos": "Noun",
+      "meaning": "a cold",
+      "level": 5
+    },
+    {
+      "id": 255,
+      "word": "家族",
+      "romaji_reading": "kazoku かぞく",
+      "pos": "Noun",
+      "meaning": "family; members of a family",
+      "level": 5
+    },
+    {
+      "id": 256,
+      "word": "警官",
+      "romaji_reading": "keikan けいかん",
+      "pos": "Noun",
+      "meaning": "policeman; police officer",
+      "level": 5
+    },
+    {
+      "id": 257,
+      "word": "結婚",
+      "romaji_reading": "kekkon けっこん",
+      "pos": "Noun, Suru verb",
+      "meaning": "marriage",
+      "level": 5
+    },
+    {
+      "id": 258,
+      "word": "結構",
+      "romaji_reading": "kekkou けっこう",
+      "pos": "Noun, Adverbial Noun, Adjective, な-adjective, Adverb",
+      "meaning": "splendid, enough",
+      "level": 5
+    },
+    {
+      "id": 259,
+      "word": "今朝",
+      "romaji_reading": "kesa けさ",
+      "pos": "Noun, Temporal noun",
+      "meaning": "this morning",
+      "level": 5
+    },
+    {
+      "id": 260,
+      "word": "消す",
+      "romaji_reading": "kesu けす",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to erase, to turn off power",
+      "level": 5
+    },
+    {
+      "id": 261,
+      "word": "木",
+      "romaji_reading": "ki き",
+      "pos": "Noun",
+      "meaning": "tree; shrub; bush; wood; timber",
+      "level": 5
+    },
+    {
+      "id": 262,
+      "word": "消える",
+      "romaji_reading": "kieru きえる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to disappear",
+      "level": 5
+    },
+    {
+      "id": 263,
+      "word": "黄色い",
+      "romaji_reading": "kiiroi きいろい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "yellow",
+      "level": 5
+    },
+    {
+      "id": 264,
+      "word": "聞く",
+      "romaji_reading": "kiku きく",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to hear; to listen (to music); to ask; to learn of",
+      "level": 5
+    },
+    {
+      "id": 265,
+      "word": "昨日",
+      "romaji_reading": "kinou きのう",
+      "pos": "Noun",
+      "meaning": "yesterday",
+      "level": 5
+    },
+    {
+      "id": 266,
+      "word": "金曜日",
+      "romaji_reading": "kinyoubi きんようび",
+      "pos": "Noun",
+      "meaning": "Friday",
+      "level": 5
+    },
+    {
+      "id": 267,
+      "word": "切符",
+      "romaji_reading": "kippu きっぷ",
+      "pos": "Noun",
+      "meaning": "ticket",
+      "level": 5
+    },
+    {
+      "id": 268,
+      "word": "嫌い",
+      "romaji_reading": "kirai きらい",
+      "pos": "Noun, Adjective, な-adjective",
+      "meaning": "hate",
+      "level": 5
+    },
+    {
+      "id": 269,
+      "word": "綺麗",
+      "romaji_reading": "kirei きれい",
+      "pos": "Adjective, な-adjective",
+      "meaning": "pretty; lovely; beautiful",
+      "level": 5
+    },
+    {
+      "id": 270,
+      "word": "キログラム",
+      "romaji_reading": "kiro guramu",
+      "pos": "Noun, Katakana",
+      "meaning": "kilogram",
+      "level": 5
+    },
+    {
+      "id": 271,
+      "word": "キロメートル",
+      "romaji_reading": "kiro meetoru",
+      "pos": "Noun, Katakana",
+      "meaning": "kilometer",
+      "level": 5
+    },
+    {
+      "id": 272,
+      "word": "切る",
+      "romaji_reading": "kiru きる",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to cut",
+      "level": 5
+    },
+    {
+      "id": 273,
+      "word": "着る",
+      "romaji_reading": "kiru きる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to wear",
+      "level": 5
+    },
+    {
+      "id": 274,
+      "word": "喫茶店",
+      "romaji_reading": "kissaten きっさてん",
+      "pos": "Noun",
+      "meaning": "coffee shop; tearoom; cafe",
+      "level": 5
+    },
+    {
+      "id": 275,
+      "word": "北",
+      "romaji_reading": "kita きた",
+      "pos": "Noun",
+      "meaning": "north",
+      "level": 5
+    },
+    {
+      "id": 276,
+      "word": "汚い",
+      "romaji_reading": "kitanai きたない",
+      "pos": "Adjective, い-adjective",
+      "meaning": "dirty",
+      "level": 5
+    },
+    {
+      "id": 277,
+      "word": "切手",
+      "romaji_reading": "kitte きって",
+      "pos": "Noun",
+      "meaning": "stamp (postage)",
+      "level": 5
+    },
+    {
+      "id": 278,
+      "word": "こっち",
+      "romaji_reading": "kocchi",
+      "pos": "Noun",
+      "meaning": "this person or way",
+      "level": 5
+    },
+    {
+      "id": 279,
+      "word": "こちら",
+      "romaji_reading": "kochira",
+      "pos": "Noun",
+      "meaning": "this way; this direction",
+      "level": 5
+    },
+    {
+      "id": 280,
+      "word": "子供",
+      "romaji_reading": "kodomo こども",
+      "pos": "Noun",
+      "meaning": "child",
+      "level": 5
+    },
+    {
+      "id": 281,
+      "word": "声",
+      "romaji_reading": "koe こえ",
+      "pos": "Noun",
+      "meaning": "voice",
+      "level": 5
+    },
+    {
+      "id": 282,
+      "word": "ここ",
+      "romaji_reading": "koko",
+      "pos": "Pronoun",
+      "meaning": "here; this place",
+      "level": 5
+    },
+    {
+      "id": 283,
+      "word": "九日",
+      "romaji_reading": "kokonoka ここのか",
+      "pos": "Noun",
+      "meaning": "ninth day of the month / 9 days",
+      "level": 5
+    },
+    {
+      "id": 284,
+      "word": "九つ",
+      "romaji_reading": "kokonotsu ここのつ",
+      "pos": "Noun, Numeric",
+      "meaning": "nine; 9",
+      "level": 5
+    },
+    {
+      "id": 285,
+      "word": "困る",
+      "romaji_reading": "komaru こまる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to be troubled",
+      "level": 5
+    },
+    {
+      "id": 286,
+      "word": "今晩",
+      "romaji_reading": "konban こんばん",
+      "pos": "Noun",
+      "meaning": "tonight; this evening",
+      "level": 5
+    },
+    {
+      "id": 287,
+      "word": "今月",
+      "romaji_reading": "kongetsu こんげつ",
+      "pos": "Noun",
+      "meaning": "this month",
+      "level": 5
+    },
+    {
+      "id": 288,
+      "word": "こんな",
+      "romaji_reading": "konna",
+      "pos": "Pre-noun adjectival",
+      "meaning": "such; like this",
+      "level": 5
+    },
+    {
+      "id": 289,
+      "word": "この",
+      "romaji_reading": "kono",
+      "pos": "Pre-noun adjectival",
+      "meaning": "this",
+      "level": 5
+    },
+    {
+      "id": 290,
+      "word": "今週",
+      "romaji_reading": "konshuu こんしゅう",
+      "pos": "Noun",
+      "meaning": "this week",
+      "level": 5
+    },
+    {
+      "id": 291,
+      "word": "コーヒー",
+      "romaji_reading": "koohii",
+      "pos": "Noun, Katakana",
+      "meaning": "Coffee",
+      "level": 5
+    },
+    {
+      "id": 292,
+      "word": "コート",
+      "romaji_reading": "kooto",
+      "pos": "Noun, Katakana",
+      "meaning": "coat",
+      "level": 5
+    },
+    {
+      "id": 293,
+      "word": "コピー",
+      "romaji_reading": "kopii",
+      "pos": "Noun, Suru verb, Katakana",
+      "meaning": "copy; photocopy",
+      "level": 5
+    },
+    {
+      "id": 294,
+      "word": "コップ",
+      "romaji_reading": "koppu",
+      "pos": "Noun, Katakana",
+      "meaning": "glass (drinking vessel); tumbler",
+      "level": 5
+    },
+    {
+      "id": 295,
+      "word": "これ",
+      "romaji_reading": "kore",
+      "pos": "Pronoun",
+      "meaning": "this",
+      "level": 5
+    },
+    {
+      "id": 296,
+      "word": "答える",
+      "romaji_reading": "kotaeru こたえる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to answer",
+      "level": 5
+    },
+    {
+      "id": 297,
+      "word": "言葉",
+      "romaji_reading": "kotoba ことば",
+      "pos": "Noun",
+      "meaning": "word; words",
+      "level": 5
+    },
+    {
+      "id": 298,
+      "word": "今年",
+      "romaji_reading": "kotoshi ことし",
+      "pos": "Noun",
+      "meaning": "this year",
+      "level": 5
+    },
+    {
+      "id": 299,
+      "word": "交番",
+      "romaji_reading": "kouban こうばん",
+      "pos": "Noun",
+      "meaning": "police box",
+      "level": 5
+    },
+    {
+      "id": 300,
+      "word": "紅茶",
+      "romaji_reading": "koucha こうちゃ",
+      "pos": "Noun",
+      "meaning": "black tea",
+      "level": 5
+    },
+    {
+      "id": 301,
+      "word": "公園",
+      "romaji_reading": "kouen こうえん",
+      "pos": "Noun",
+      "meaning": "park",
+      "level": 5
+    },
+    {
+      "id": 302,
+      "word": "交差点",
+      "romaji_reading": "kousaten こうさてん",
+      "pos": "Noun",
+      "meaning": "intersection",
+      "level": 5
+    },
+    {
+      "id": 303,
+      "word": "口",
+      "romaji_reading": "kuchi くち",
+      "pos": "Noun",
+      "meaning": "mouth, opening",
+      "level": 5
+    },
+    {
+      "id": 304,
+      "word": "果物",
+      "romaji_reading": "kudamono くだもの",
+      "pos": "Noun",
+      "meaning": "fruit",
+      "level": 5
+    },
+    {
+      "id": 305,
+      "word": "下さい",
+      "romaji_reading": "kudasai ください",
+      "pos": "Expression",
+      "meaning": "please",
+      "level": 5
+    },
+    {
+      "id": 306,
+      "word": "曇り",
+      "romaji_reading": "kumori くもり",
+      "pos": "Noun",
+      "meaning": "cloudiness; cloudy weather",
+      "level": 5
+    },
+    {
+      "id": 307,
+      "word": "曇る",
+      "romaji_reading": "kumoru くもる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to become cloudy, to become dim",
+      "level": 5
+    },
+    {
+      "id": 308,
+      "word": "国",
+      "romaji_reading": "kuni くに",
+      "pos": "Noun",
+      "meaning": "country; state; region",
+      "level": 5
+    },
+    {
+      "id": 309,
+      "word": "暗い",
+      "romaji_reading": "kurai くらい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "dark; gloomy; murky",
+      "level": 5
+    },
+    {
+      "id": 310,
+      "word": "クラス",
+      "romaji_reading": "kurasu",
+      "pos": "Noun, Katakana",
+      "meaning": "class",
+      "level": 5
+    },
+    {
+      "id": 311,
+      "word": "黒",
+      "romaji_reading": "kuro くろ",
+      "pos": "Noun",
+      "meaning": "black",
+      "level": 5
+    },
+    {
+      "id": 312,
+      "word": "黒い",
+      "romaji_reading": "kuroi くろい",
+      "pos": "い-adjective",
+      "meaning": "black",
+      "level": 5
+    },
+    {
+      "id": 313,
+      "word": "来る",
+      "romaji_reading": "kuru くる",
+      "pos": "Verb, Intransitive verb",
+      "meaning": "to come",
+      "level": 5
+    },
+    {
+      "id": 314,
+      "word": "車",
+      "romaji_reading": "kuruma くるま",
+      "pos": "Noun",
+      "meaning": "car; automobile; vehicle",
+      "level": 5
+    },
+    {
+      "id": 315,
+      "word": "薬",
+      "romaji_reading": "kusuri くすり",
+      "pos": "Noun",
+      "meaning": "medicine",
+      "level": 5
+    },
+    {
+      "id": 316,
+      "word": "靴",
+      "romaji_reading": "kutsu くつ",
+      "pos": "Noun",
+      "meaning": "shoes",
+      "level": 5
+    },
+    {
+      "id": 317,
+      "word": "靴下",
+      "romaji_reading": "kutsushita くつした",
+      "pos": "Noun",
+      "meaning": "socks",
+      "level": 5
+    },
+    {
+      "id": 318,
+      "word": "去年",
+      "romaji_reading": "kyonen きょねん",
+      "pos": "Noun",
+      "meaning": "last year",
+      "level": 5
+    },
+    {
+      "id": 319,
+      "word": "今日",
+      "romaji_reading": "kyou きょう",
+      "pos": "Noun, Temporal noun",
+      "meaning": "today; this day",
+      "level": 5
+    },
+    {
+      "id": 320,
+      "word": "兄弟",
+      "romaji_reading": "kyoudai きょうだい",
+      "pos": "Noun",
+      "meaning": "siblings; brothers and sisters; mate",
+      "level": 5
+    },
+    {
+      "id": 321,
+      "word": "教室",
+      "romaji_reading": "kyoushitsu きょうしつ",
+      "pos": "Noun",
+      "meaning": "classroom",
+      "level": 5
+    },
+    {
+      "id": 322,
+      "word": "九",
+      "romaji_reading": "kyuu きゅう",
+      "pos": "Noun, Numeric",
+      "meaning": "nine; 9",
+      "level": 5
+    },
+    {
+      "id": 323,
+      "word": "マッチ",
+      "romaji_reading": "macchi",
+      "pos": "Noun, Katakana",
+      "meaning": "match",
+      "level": 5
+    },
+    {
+      "id": 324,
+      "word": "町",
+      "romaji_reading": "machi まち",
+      "pos": "Noun",
+      "meaning": "town; block; neighborhood",
+      "level": 5
+    },
+    {
+      "id": 325,
+      "word": "窓",
+      "romaji_reading": "mado まど",
+      "pos": "Noun",
+      "meaning": "window",
+      "level": 5
+    },
+    {
+      "id": 326,
+      "word": "前",
+      "romaji_reading": "mae まえ",
+      "pos": "Noun, Suffix",
+      "meaning": "previous; before; in front; ago",
+      "level": 5
+    },
+    {
+      "id": 327,
+      "word": "曲がる",
+      "romaji_reading": "magaru まがる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to turn, to bend",
+      "level": 5
+    },
+    {
+      "id": 328,
+      "word": "毎朝",
+      "romaji_reading": "maiasa まいあさ",
+      "pos": "Noun",
+      "meaning": "every morning",
+      "level": 5
+    },
+    {
+      "id": 329,
+      "word": "毎晩",
+      "romaji_reading": "maiban まいばん",
+      "pos": "Noun",
+      "meaning": "every night",
+      "level": 5
+    },
+    {
+      "id": 330,
+      "word": "毎日",
+      "romaji_reading": "mainichi まいにち",
+      "pos": "Noun",
+      "meaning": "every day",
+      "level": 5
+    },
+    {
+      "id": 331,
+      "word": "毎週",
+      "romaji_reading": "maishuu まいしゅう",
+      "pos": "Noun",
+      "meaning": "every week",
+      "level": 5
+    },
+    {
+      "id": 332,
+      "word": "毎年",
+      "romaji_reading": "maitoshi / mainen まいとし / まいねん",
+      "pos": "Noun",
+      "meaning": "every year; yearly; annually",
+      "level": 5
+    },
+    {
+      "id": 333,
+      "word": "毎月",
+      "romaji_reading": "maitsuki まいつき",
+      "pos": "Noun",
+      "meaning": "every month; monthly",
+      "level": 5
+    },
+    {
+      "id": 334,
+      "word": "万",
+      "romaji_reading": "man まん",
+      "pos": "Noun, Numeric",
+      "meaning": "10,000; ten thousand",
+      "level": 5
+    },
+    {
+      "id": 335,
+      "word": "万年筆",
+      "romaji_reading": "mannenhitsu まんねんひつ",
+      "pos": "Noun",
+      "meaning": "fountain pen",
+      "level": 5
+    },
+    {
+      "id": 336,
+      "word": "丸い",
+      "romaji_reading": "marui まるい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "round,circular",
+      "level": 5
+    },
+    {
+      "id": 337,
+      "word": "真っ直ぐ",
+      "romaji_reading": "massugu まっすぐ",
+      "pos": "Noun, Adjective, な-adjective, Adverb",
+      "meaning": "straight ahead,direct",
+      "level": 5
+    },
+    {
+      "id": 338,
+      "word": "待つ",
+      "romaji_reading": "matsu まつ",
+      "pos": "Verb, Godan verb, Intransitive verb, Transitive verb",
+      "meaning": "to wait",
+      "level": 5
+    },
+    {
+      "id": 339,
+      "word": "不味い",
+      "romaji_reading": "mazui まずい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "unpleasant",
+      "level": 5
+    },
+    {
+      "id": 340,
+      "word": "目",
+      "romaji_reading": "me め",
+      "pos": "Noun",
+      "meaning": "eye",
+      "level": 5
+    },
+    {
+      "id": 341,
+      "word": "メートル",
+      "romaji_reading": "meetoru",
+      "pos": "Noun, Katakana",
+      "meaning": "metre; meter",
+      "level": 5
+    },
+    {
+      "id": 342,
+      "word": "眼鏡",
+      "romaji_reading": "megane めがね",
+      "pos": "Noun",
+      "meaning": "glasses",
+      "level": 5
+    },
+    {
+      "id": 343,
+      "word": "道",
+      "romaji_reading": "michi みち",
+      "pos": "Noun",
+      "meaning": "road; street",
+      "level": 5
+    },
+    {
+      "id": 344,
+      "word": "緑",
+      "romaji_reading": "midori みどり",
+      "pos": "Noun",
+      "meaning": "green",
+      "level": 5
+    },
+    {
+      "id": 345,
+      "word": "磨く",
+      "romaji_reading": "migaku みがく",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to polish; to shine; to brush (e.g. teeth)",
+      "level": 5
+    },
+    {
+      "id": 346,
+      "word": "右",
+      "romaji_reading": "migi みぎ",
+      "pos": "Noun",
+      "meaning": "right; right hand side",
+      "level": 5
+    },
+    {
+      "id": 347,
+      "word": "短い",
+      "romaji_reading": "mijikai みじかい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "short",
+      "level": 5
+    },
+    {
+      "id": 348,
+      "word": "三日",
+      "romaji_reading": "mikka みっか",
+      "pos": "Noun",
+      "meaning": "the third day of the month / 3 days",
+      "level": 5
+    },
+    {
+      "id": 349,
+      "word": "耳",
+      "romaji_reading": "mimi みみ",
+      "pos": "Noun",
+      "meaning": "ear; hearing",
+      "level": 5
+    },
+    {
+      "id": 350,
+      "word": "南",
+      "romaji_reading": "minami みなみ",
+      "pos": "Noun",
+      "meaning": "south",
+      "level": 5
+    },
+    {
+      "id": 351,
+      "word": "皆さん",
+      "romaji_reading": "minasan みなさん",
+      "pos": "Noun",
+      "meaning": "everyone",
+      "level": 5
+    },
+    {
+      "id": 352,
+      "word": "みんな",
+      "romaji_reading": "minna",
+      "pos": "Noun, Adverb",
+      "meaning": "all; everyone; everybody",
+      "level": 5
+    },
+    {
+      "id": 353,
+      "word": "見る",
+      "romaji_reading": "miru みる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to see; to look; to watch; to view; to observe",
+      "level": 5
+    },
+    {
+      "id": 354,
+      "word": "店",
+      "romaji_reading": "mise みせ",
+      "pos": "Noun",
+      "meaning": "store; shop; establishment; restaurant",
+      "level": 5
+    },
+    {
+      "id": 355,
+      "word": "見せる",
+      "romaji_reading": "miseru みせる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to show; to display",
+      "level": 5
+    },
+    {
+      "id": 356,
+      "word": "三つ",
+      "romaji_reading": "mittsu みっつ",
+      "pos": "Noun, Numeric",
+      "meaning": "three; 3",
+      "level": 5
+    },
+    {
+      "id": 357,
+      "word": "水",
+      "romaji_reading": "mizu みず",
+      "pos": "Noun",
+      "meaning": "water; fluid; liquid",
+      "level": 5
+    },
+    {
+      "id": 358,
+      "word": "木曜日",
+      "romaji_reading": "mokuyoubi もくようび",
+      "pos": "Noun",
+      "meaning": "Thursday",
+      "level": 5
+    },
+    {
+      "id": 359,
+      "word": "門",
+      "romaji_reading": "mon もん",
+      "pos": "Noun",
+      "meaning": "gate",
+      "level": 5
+    },
+    {
+      "id": 360,
+      "word": "問題",
+      "romaji_reading": "mondai もんだい",
+      "pos": "Noun",
+      "meaning": "problem; question (e.g. on a test)",
+      "level": 5
+    },
+    {
+      "id": 361,
+      "word": "物",
+      "romaji_reading": "mono もの",
+      "pos": "Noun",
+      "meaning": "thing",
+      "level": 5
+    },
+    {
+      "id": 362,
+      "word": "持つ",
+      "romaji_reading": "motsu もつ",
+      "pos": "Verb, Godan verb",
+      "meaning": "to hold",
+      "level": 5
+    },
+    {
+      "id": 363,
+      "word": "もっと",
+      "romaji_reading": "motto",
+      "pos": "Adverb",
+      "meaning": "more; longer; further",
+      "level": 5
+    },
+    {
+      "id": 364,
+      "word": "もう一度",
+      "romaji_reading": "mouichido もういちど",
+      "pos": "Expression",
+      "meaning": "once more; again",
+      "level": 5
+    },
+    {
+      "id": 365,
+      "word": "六日",
+      "romaji_reading": "muika むいか",
+      "pos": "Noun",
+      "meaning": "sixth day of the month / 6 days",
+      "level": 5
+    },
+    {
+      "id": 366,
+      "word": "向こう",
+      "romaji_reading": "mukou むこう",
+      "pos": "Noun",
+      "meaning": "over there",
+      "level": 5
+    },
+    {
+      "id": 367,
+      "word": "村",
+      "romaji_reading": "mura むら",
+      "pos": "Noun",
+      "meaning": "village",
+      "level": 5
+    },
+    {
+      "id": 368,
+      "word": "六つ",
+      "romaji_reading": "muttsu むっつ",
+      "pos": "Noun, Numeric",
+      "meaning": "six; 6",
+      "level": 5
+    },
+    {
+      "id": 369,
+      "word": "難しい",
+      "romaji_reading": "muzukashii むずかしい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "difficult",
+      "level": 5
+    },
+    {
+      "id": 370,
+      "word": "長い",
+      "romaji_reading": "nagai ながい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "long (distance); long (time); lengthy.",
+      "level": 5
+    },
+    {
+      "id": 371,
+      "word": "ナイフ",
+      "romaji_reading": "naifu",
+      "pos": "Noun, Katakana",
+      "meaning": "knife",
+      "level": 5
+    },
+    {
+      "id": 372,
+      "word": "中",
+      "romaji_reading": "naka なか",
+      "pos": "Noun",
+      "meaning": "inside; in; within; center",
+      "level": 5
+    },
+    {
+      "id": 373,
+      "word": "鳴く",
+      "romaji_reading": "naku なく",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "animal noise. to chirp",
+      "level": 5
+    },
+    {
+      "id": 374,
+      "word": "無くす",
+      "romaji_reading": "nakusu なくす",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to lose (something)",
+      "level": 5
+    },
+    {
+      "id": 375,
+      "word": "名前",
+      "romaji_reading": "namae なまえ",
+      "pos": "Noun",
+      "meaning": "name; full name; given name",
+      "level": 5
+    },
+    {
+      "id": 376,
+      "word": "七つ",
+      "romaji_reading": "nanatsu ななつ",
+      "pos": "Noun, Numeric",
+      "meaning": "seven; 7",
+      "level": 5
+    },
+    {
+      "id": 377,
+      "word": "何",
+      "romaji_reading": "nani なに",
+      "pos": "Noun, Pronoun, Prefix",
+      "meaning": "what",
+      "level": 5
+    },
+    {
+      "id": 378,
+      "word": "七日",
+      "romaji_reading": "nanoka なのか",
+      "pos": "Noun",
+      "meaning": "seventh day of the month / 7 days",
+      "level": 5
+    },
+    {
+      "id": 379,
+      "word": "並べる",
+      "romaji_reading": "naraberu ならべる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to line up,to set up",
+      "level": 5
+    },
+    {
+      "id": 380,
+      "word": "並ぶ",
+      "romaji_reading": "narabu ならぶ",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to line up,to stand in a line",
+      "level": 5
+    },
+    {
+      "id": 381,
+      "word": "習う",
+      "romaji_reading": "narau ならう",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to be taught; to learn (from a teacher)",
+      "level": 5
+    },
+    {
+      "id": 382,
+      "word": "夏",
+      "romaji_reading": "natsu なつ",
+      "pos": "Noun",
+      "meaning": "summer",
+      "level": 5
+    },
+    {
+      "id": 383,
+      "word": "夏休み",
+      "romaji_reading": "natsuyasumi なつやすみ",
+      "pos": "Noun",
+      "meaning": "summer vacation; summer holiday",
+      "level": 5
+    },
+    {
+      "id": 384,
+      "word": "何故",
+      "romaji_reading": "naze なぜ",
+      "pos": "Adverb",
+      "meaning": "why; how",
+      "level": 5
+    },
+    {
+      "id": 385,
+      "word": "猫",
+      "romaji_reading": "neko ねこ",
+      "pos": "Noun",
+      "meaning": "cat",
+      "level": 5
+    },
+    {
+      "id": 386,
+      "word": "ネクタイ",
+      "romaji_reading": "nekutai",
+      "pos": "Noun, Katakana",
+      "meaning": "tie; necktie",
+      "level": 5
+    },
+    {
+      "id": 387,
+      "word": "寝る",
+      "romaji_reading": "neru ねる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to sleep; to go to bed; to lie down",
+      "level": 5
+    },
+    {
+      "id": 388,
+      "word": "二",
+      "romaji_reading": "ni に",
+      "pos": "Noun, Numeric",
+      "meaning": "two; 2",
+      "level": 5
+    },
+    {
+      "id": 389,
+      "word": "日曜日",
+      "romaji_reading": "nichiyoubi にちようび",
+      "pos": "Noun",
+      "meaning": "Sunday",
+      "level": 5
+    },
+    {
+      "id": 390,
+      "word": "賑やか",
+      "romaji_reading": "nigiyaka にぎやか",
+      "pos": "Adjective, な-adjective",
+      "meaning": "bustling,busy",
+      "level": 5
+    },
+    {
+      "id": 391,
+      "word": "日記",
+      "romaji_reading": "nikki にっき",
+      "pos": "Noun",
+      "meaning": "diary; journal",
+      "level": 5
+    },
+    {
+      "id": 392,
+      "word": "肉",
+      "romaji_reading": "niku にく",
+      "pos": "Noun",
+      "meaning": "meat",
+      "level": 5
+    },
+    {
+      "id": 393,
+      "word": "荷物",
+      "romaji_reading": "nimotsu にもつ",
+      "pos": "Noun",
+      "meaning": "luggage; baggage",
+      "level": 5
+    },
+    {
+      "id": 394,
+      "word": "西",
+      "romaji_reading": "nishi にし",
+      "pos": "Noun",
+      "meaning": "west",
+      "level": 5
+    },
+    {
+      "id": 395,
+      "word": "庭",
+      "romaji_reading": "niwa にわ",
+      "pos": "Noun",
+      "meaning": "garden",
+      "level": 5
+    },
+    {
+      "id": 396,
+      "word": "登る",
+      "romaji_reading": "noboru のぼる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to climb",
+      "level": 5
+    },
+    {
+      "id": 397,
+      "word": "飲み物",
+      "romaji_reading": "nomimono のみもの",
+      "pos": "Noun",
+      "meaning": "drink; beverage",
+      "level": 5
+    },
+    {
+      "id": 398,
+      "word": "飲む",
+      "romaji_reading": "nomu のむ",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to drink",
+      "level": 5
+    },
+    {
+      "id": 399,
+      "word": "ノート",
+      "romaji_reading": "nooto",
+      "pos": "Noun, Katakana",
+      "meaning": "notebook",
+      "level": 5
+    },
+    {
+      "id": 400,
+      "word": "乗る",
+      "romaji_reading": "noru のる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to get on (train, plane, bus, ship, etc.)",
+      "level": 5
+    },
+    {
+      "id": 401,
+      "word": "脱ぐ",
+      "romaji_reading": "nugu ぬぐ",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to take off clothes",
+      "level": 5
+    },
+    {
+      "id": 402,
+      "word": "温い",
+      "romaji_reading": "nurui ぬるい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "luke warm",
+      "level": 5
+    },
+    {
+      "id": 403,
+      "word": "ニュース",
+      "romaji_reading": "nyuusu",
+      "pos": "Noun, Katakana",
+      "meaning": "news",
+      "level": 5
+    },
+    {
+      "id": 404,
+      "word": "おばあさん",
+      "romaji_reading": "obaasan",
+      "pos": "Noun",
+      "meaning": "grandmother",
+      "level": 5
+    },
+    {
+      "id": 405,
+      "word": "伯母さん",
+      "romaji_reading": "obasan おばさん",
+      "pos": "Noun",
+      "meaning": "aunt; old lady",
+      "level": 5
+    },
+    {
+      "id": 406,
+      "word": "お弁当",
+      "romaji_reading": "obentou おべんとう",
+      "pos": "Noun",
+      "meaning": "lunch box; Japanese box lunch",
+      "level": 5
+    },
+    {
+      "id": 407,
+      "word": "覚える",
+      "romaji_reading": "oboeru おぼえる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to remember",
+      "level": 5
+    },
+    {
+      "id": 408,
+      "word": "お茶",
+      "romaji_reading": "ocha おちゃ",
+      "pos": "Noun",
+      "meaning": "tea",
+      "level": 5
+    },
+    {
+      "id": 409,
+      "word": "お風呂",
+      "romaji_reading": "ofuro おふろ",
+      "pos": "Noun",
+      "meaning": "bath",
+      "level": 5
+    },
+    {
+      "id": 410,
+      "word": "美味しい",
+      "romaji_reading": "oishii おいしい",
+      "pos": "い-adjective",
+      "meaning": "delicious",
+      "level": 5
+    },
+    {
+      "id": 411,
+      "word": "伯父さん",
+      "romaji_reading": "ojisan おじさん",
+      "pos": "Noun",
+      "meaning": "uncle; old man; mister",
+      "level": 5
+    },
+    {
+      "id": 412,
+      "word": "お母さん",
+      "romaji_reading": "okaasan おかあさん",
+      "pos": "Noun",
+      "meaning": "mother; mom; mum; ma",
+      "level": 5
+    },
+    {
+      "id": 413,
+      "word": "お金",
+      "romaji_reading": "okane おかね",
+      "pos": "Noun",
+      "meaning": "money",
+      "level": 5
+    },
+    {
+      "id": 414,
+      "word": "お菓子",
+      "romaji_reading": "okashi おかし",
+      "pos": "Noun",
+      "meaning": "confections; sweets; candy",
+      "level": 5
+    },
+    {
+      "id": 415,
+      "word": "起きる",
+      "romaji_reading": "okiru おきる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to get up; to wake up",
+      "level": 5
+    },
+    {
+      "id": 416,
+      "word": "置く",
+      "romaji_reading": "oku おく",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to put; to place",
+      "level": 5
+    },
+    {
+      "id": 417,
+      "word": "奥さん",
+      "romaji_reading": "okusan おくさん",
+      "pos": "Noun",
+      "meaning": "wife; your wife; his wife",
+      "level": 5
+    },
+    {
+      "id": 418,
+      "word": "お巡りさん",
+      "romaji_reading": "omawari san おまわりさん",
+      "pos": "Noun",
+      "meaning": "police officer (friendly term for policeman)",
+      "level": 5
+    },
+    {
+      "id": 419,
+      "word": "重い",
+      "romaji_reading": "omoi おもい",
+      "pos": "い-adjective",
+      "meaning": "heavy",
+      "level": 5
+    },
+    {
+      "id": 420,
+      "word": "面白い",
+      "romaji_reading": "omoshiroi おもしろい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "interesting",
+      "level": 5
+    },
+    {
+      "id": 421,
+      "word": "同じ",
+      "romaji_reading": "onaji おなじ",
+      "pos": "Noun, Adverb",
+      "meaning": "same",
+      "level": 5
+    },
+    {
+      "id": 422,
+      "word": "お腹",
+      "romaji_reading": "onaka おなか",
+      "pos": "Noun",
+      "meaning": "stomach",
+      "level": 5
+    },
+    {
+      "id": 423,
+      "word": "お姉さん",
+      "romaji_reading": "oneesan おねえさん",
+      "pos": "Noun",
+      "meaning": "elder sister; young lady; miss; ma'am",
+      "level": 5
+    },
+    {
+      "id": 424,
+      "word": "音楽",
+      "romaji_reading": "ongaku おんがく",
+      "pos": "Noun",
+      "meaning": "music",
+      "level": 5
+    },
+    {
+      "id": 425,
+      "word": "お兄さん",
+      "romaji_reading": "oniisan おにいさん",
+      "pos": "Noun",
+      "meaning": "older brother; elder brother; young man; buddy",
+      "level": 5
+    },
+    {
+      "id": 426,
+      "word": "女",
+      "romaji_reading": "onna おんな",
+      "pos": "Noun, Prefix",
+      "meaning": "woman; female sex",
+      "level": 5
+    },
+    {
+      "id": 427,
+      "word": "女の子",
+      "romaji_reading": "onnanoko おんなのこ",
+      "pos": "Noun",
+      "meaning": "girl; daughter; young women",
+      "level": 5
+    },
+    {
+      "id": 428,
+      "word": "多い",
+      "romaji_reading": "ooi おおい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "many; numerous; a lot; large quantity; frequent",
+      "level": 5
+    },
+    {
+      "id": 429,
+      "word": "大きい",
+      "romaji_reading": "ookii おおきい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "big; large; great; important",
+      "level": 5
+    },
+    {
+      "id": 430,
+      "word": "大きな",
+      "romaji_reading": "ookina おおきな",
+      "pos": "Pre-noun adjectival",
+      "meaning": "big; large; great",
+      "level": 5
+    },
+    {
+      "id": 431,
+      "word": "大勢",
+      "romaji_reading": "oozei おおぜい",
+      "pos": "Noun",
+      "meaning": "crowd of people; great number of people",
+      "level": 5
+    },
+    {
+      "id": 432,
+      "word": "降りる",
+      "romaji_reading": "oriru おりる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to get off",
+      "level": 5
+    },
+    {
+      "id": 433,
+      "word": "お酒",
+      "romaji_reading": "osake おさけ",
+      "pos": "Noun",
+      "meaning": "alcohol",
+      "level": 5
+    },
+    {
+      "id": 434,
+      "word": "お皿",
+      "romaji_reading": "osara おさら",
+      "pos": "Noun",
+      "meaning": "plate, dish",
+      "level": 5
+    },
+    {
+      "id": 435,
+      "word": "教える",
+      "romaji_reading": "oshieru おしえる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to teach",
+      "level": 5
+    },
+    {
+      "id": 436,
+      "word": "遅い",
+      "romaji_reading": "osoi おそい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "slow; time-consuming; late",
+      "level": 5
+    },
+    {
+      "id": 437,
+      "word": "押す",
+      "romaji_reading": "osu おす",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to push; to press",
+      "level": 5
+    },
+    {
+      "id": 438,
+      "word": "お手洗い",
+      "romaji_reading": "otearai おてあらい",
+      "pos": "Noun",
+      "meaning": "toilet; restroom; lavatory; bathroom",
+      "level": 5
+    },
+    {
+      "id": 439,
+      "word": "男",
+      "romaji_reading": "otoko おとこ",
+      "pos": "Noun",
+      "meaning": "man; male",
+      "level": 5
+    },
+    {
+      "id": 440,
+      "word": "男の子",
+      "romaji_reading": "otokonoko おとこのこ",
+      "pos": "Noun, Expression",
+      "meaning": "boy; male child; baby boy",
+      "level": 5
+    },
+    {
+      "id": 441,
+      "word": "大人",
+      "romaji_reading": "otona おとな",
+      "pos": "Noun",
+      "meaning": "adult",
+      "level": 5
+    },
+    {
+      "id": 442,
+      "word": "一昨日",
+      "romaji_reading": "ototoi おととい",
+      "pos": "Noun",
+      "meaning": "day before yesterday",
+      "level": 5
+    },
+    {
+      "id": 443,
+      "word": "一昨年",
+      "romaji_reading": "ototoshi おととし",
+      "pos": "Noun",
+      "meaning": "year before last",
+      "level": 5
+    },
+    {
+      "id": 444,
+      "word": "お父さん",
+      "romaji_reading": "otousan おとうさん",
+      "pos": "Noun",
+      "meaning": "father; dad; papa; pa; pop; daddy",
+      "level": 5
+    },
+    {
+      "id": 445,
+      "word": "弟",
+      "romaji_reading": "otouto おとうと",
+      "pos": "Noun",
+      "meaning": "younger brother",
+      "level": 5
+    },
+    {
+      "id": 446,
+      "word": "終わる",
+      "romaji_reading": "owaru おわる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to finish; to end",
+      "level": 5
+    },
+    {
+      "id": 447,
+      "word": "泳ぐ",
+      "romaji_reading": "oyogu およぐ",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to swim",
+      "level": 5
+    },
+    {
+      "id": 448,
+      "word": "パーティー",
+      "romaji_reading": "paatii",
+      "pos": "Noun, Katakana",
+      "meaning": "party",
+      "level": 5
+    },
+    {
+      "id": 449,
+      "word": "パン",
+      "romaji_reading": "pan",
+      "pos": "Noun, Katakana",
+      "meaning": "bread",
+      "level": 5
+    },
+    {
+      "id": 450,
+      "word": "ページ",
+      "romaji_reading": "peeji",
+      "pos": "Noun, Katakana",
+      "meaning": "page",
+      "level": 5
+    },
+    {
+      "id": 451,
+      "word": "ペン",
+      "romaji_reading": "pen",
+      "pos": "Noun, Katakana",
+      "meaning": "pen",
+      "level": 5
+    },
+    {
+      "id": 452,
+      "word": "ペット",
+      "romaji_reading": "petto",
+      "pos": "Noun, Katakana",
+      "meaning": "pet",
+      "level": 5
+    },
+    {
+      "id": 453,
+      "word": "ポケット",
+      "romaji_reading": "poketto",
+      "pos": "Noun",
+      "meaning": "pocket",
+      "level": 5
+    },
+    {
+      "id": 454,
+      "word": "ポスト",
+      "romaji_reading": "posuto",
+      "pos": "Noun, Katakana",
+      "meaning": "post",
+      "level": 5
+    },
+    {
+      "id": 455,
+      "word": "プール",
+      "romaji_reading": "puuru",
+      "pos": "Noun, Katakana",
+      "meaning": "swimming pool",
+      "level": 5
+    },
+    {
+      "id": 456,
+      "word": "来月",
+      "romaji_reading": "raigetsu らいげつ",
+      "pos": "Noun",
+      "meaning": "next month",
+      "level": 5
+    },
+    {
+      "id": 457,
+      "word": "来年",
+      "romaji_reading": "rainen らいねん",
+      "pos": "Noun",
+      "meaning": "next year",
+      "level": 5
+    },
+    {
+      "id": 458,
+      "word": "来週",
+      "romaji_reading": "raishuu らいしゅう",
+      "pos": "Noun",
+      "meaning": "next week",
+      "level": 5
+    },
+    {
+      "id": 459,
+      "word": "ラジオ",
+      "romaji_reading": "rajiio",
+      "pos": "Noun, Katakana",
+      "meaning": "radio",
+      "level": 5
+    },
+    {
+      "id": 460,
+      "word": "零",
+      "romaji_reading": "rei れい",
+      "pos": "Noun",
+      "meaning": "zero",
+      "level": 5
+    },
+    {
+      "id": 461,
+      "word": "冷蔵庫",
+      "romaji_reading": "reizouko れいぞうこ",
+      "pos": "Noun",
+      "meaning": "refrigerator",
+      "level": 5
+    },
+    {
+      "id": 462,
+      "word": "レコード",
+      "romaji_reading": "rekoodo",
+      "pos": "Noun, Katakana",
+      "meaning": "record",
+      "level": 5
+    },
+    {
+      "id": 463,
+      "word": "練習",
+      "romaji_reading": "renshuu れんしゅう",
+      "pos": "Noun, Verb, Suru verb",
+      "meaning": "practice; practicing",
+      "level": 5
+    },
+    {
+      "id": 464,
+      "word": "レストラン",
+      "romaji_reading": "resutoran",
+      "pos": "Noun, Katakana",
+      "meaning": "restaurant",
+      "level": 5
+    },
+    {
+      "id": 465,
+      "word": "立派",
+      "romaji_reading": "rippa りっぱ",
+      "pos": "Adjective, な-adjective",
+      "meaning": "splendid",
+      "level": 5
+    },
+    {
+      "id": 466,
+      "word": "六",
+      "romaji_reading": "roku ろく",
+      "pos": "Noun, Numeric",
+      "meaning": "six; 6",
+      "level": 5
+    },
+    {
+      "id": 467,
+      "word": "廊下",
+      "romaji_reading": "rouka ろうか",
+      "pos": "Noun",
+      "meaning": "corridor; hallway; passageway",
+      "level": 5
+    },
+    {
+      "id": 468,
+      "word": "旅行",
+      "romaji_reading": "ryokou りょこう",
+      "pos": "Noun, Verb, Suru verb",
+      "meaning": "travel; trip; journey; excursion; tour",
+      "level": 5
+    },
+    {
+      "id": 469,
+      "word": "料理",
+      "romaji_reading": "ryouri りょうり",
+      "pos": "Noun, Suru verb",
+      "meaning": "cuisine",
+      "level": 5
+    },
+    {
+      "id": 470,
+      "word": "両親",
+      "romaji_reading": "ryoushin りょうしん",
+      "pos": "Noun",
+      "meaning": "parents; both parents",
+      "level": 5
+    },
+    {
+      "id": 471,
+      "word": "留学生",
+      "romaji_reading": "ryuugakusei りゅうがくせい",
+      "pos": "Noun",
+      "meaning": "overseas student; exchange student",
+      "level": 5
+    },
+    {
+      "id": 472,
+      "word": "さあ",
+      "romaji_reading": "saa",
+      "pos": "Conjunction",
+      "meaning": "well…",
+      "level": 5
+    },
+    {
+      "id": 473,
+      "word": "財布",
+      "romaji_reading": "saifu さいふ",
+      "pos": "Noun",
+      "meaning": "purse; wallet",
+      "level": 5
+    },
+    {
+      "id": 474,
+      "word": "魚",
+      "romaji_reading": "sakana さかな",
+      "pos": "Noun",
+      "meaning": "fish",
+      "level": 5
+    },
+    {
+      "id": 475,
+      "word": "先",
+      "romaji_reading": "saki さき",
+      "pos": "Noun, Prefix, Suffix",
+      "meaning": "previous; prior; first; earlier",
+      "level": 5
+    },
+    {
+      "id": 476,
+      "word": "咲く",
+      "romaji_reading": "saku さく",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to bloom",
+      "level": 5
+    },
+    {
+      "id": 477,
+      "word": "作文",
+      "romaji_reading": "sakubun さくぶん",
+      "pos": "Noun",
+      "meaning": "writing; composition",
+      "level": 5
+    },
+    {
+      "id": 478,
+      "word": "寒い",
+      "romaji_reading": "samui さむい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "cold",
+      "level": 5
+    },
+    {
+      "id": 479,
+      "word": "三",
+      "romaji_reading": "san さん",
+      "pos": "Noun, Numeric",
+      "meaning": "three; 3",
+      "level": 5
+    },
+    {
+      "id": 480,
+      "word": "散歩",
+      "romaji_reading": "sanpo さんぽ",
+      "pos": "Noun, Verb, Suru verb",
+      "meaning": "walk; stroll",
+      "level": 5
+    },
+    {
+      "id": 481,
+      "word": "再来年",
+      "romaji_reading": "sarainen さらいねん",
+      "pos": "Noun",
+      "meaning": "year after next",
+      "level": 5
+    },
+    {
+      "id": 482,
+      "word": "差す",
+      "romaji_reading": "sasu さす",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to stretch out hands, to raise an umbrella",
+      "level": 5
+    },
+    {
+      "id": 483,
+      "word": "砂糖",
+      "romaji_reading": "satou さとう",
+      "pos": "Noun",
+      "meaning": "sugar",
+      "level": 5
+    },
+    {
+      "id": 484,
+      "word": "背",
+      "romaji_reading": "se せ",
+      "pos": "Noun",
+      "meaning": "height; stature; back; spine",
+      "level": 5
+    },
+    {
+      "id": 485,
+      "word": "背広",
+      "romaji_reading": "sebiro せびろ",
+      "pos": "Noun",
+      "meaning": "business suit",
+      "level": 5
+    },
+    {
+      "id": 486,
+      "word": "セーター",
+      "romaji_reading": "seetaa",
+      "pos": "Noun, Katakana",
+      "meaning": "sweater; jumper",
+      "level": 5
+    },
+    {
+      "id": 487,
+      "word": "生徒",
+      "romaji_reading": "seito せいと",
+      "pos": "Noun",
+      "meaning": "pupil; student",
+      "level": 5
+    },
+    {
+      "id": 488,
+      "word": "石鹼",
+      "romaji_reading": "sekken せっけん",
+      "pos": "Noun",
+      "meaning": "soap",
+      "level": 5
+    },
+    {
+      "id": 489,
+      "word": "狭い",
+      "romaji_reading": "semai せまい",
+      "pos": "い-adjective",
+      "meaning": "narrow",
+      "level": 5
+    },
+    {
+      "id": 490,
+      "word": "千",
+      "romaji_reading": "sen せん",
+      "pos": "Noun, Numeric",
+      "meaning": "1,000; thousand",
+      "level": 5
+    },
+    {
+      "id": 491,
+      "word": "先月",
+      "romaji_reading": "sengetsu せんげつ",
+      "pos": "Noun",
+      "meaning": "last month",
+      "level": 5
+    },
+    {
+      "id": 492,
+      "word": "先生",
+      "romaji_reading": "sensei せんせい",
+      "pos": "Noun, Suffix",
+      "meaning": "teacher; instructor; master",
+      "level": 5
+    },
+    {
+      "id": 493,
+      "word": "先週",
+      "romaji_reading": "senshuu せんしゅう",
+      "pos": "Noun",
+      "meaning": "last week",
+      "level": 5
+    },
+    {
+      "id": 494,
+      "word": "洗濯",
+      "romaji_reading": "sentaku せんたく",
+      "pos": "Noun, Suru verb",
+      "meaning": "washing; laundry",
+      "level": 5
+    },
+    {
+      "id": 495,
+      "word": "写真",
+      "romaji_reading": "shashin しゃしん",
+      "pos": "Noun",
+      "meaning": "photograph; photo",
+      "level": 5
+    },
+    {
+      "id": 496,
+      "word": "シャツ",
+      "romaji_reading": "shatsu",
+      "pos": "Noun, Katakana",
+      "meaning": "shirt",
+      "level": 5
+    },
+    {
+      "id": 497,
+      "word": "シャワー",
+      "romaji_reading": "shawaa",
+      "pos": "Noun, Katakana",
+      "meaning": "shower",
+      "level": 5
+    },
+    {
+      "id": 498,
+      "word": "四",
+      "romaji_reading": "shi し",
+      "pos": "Noun, Numeric",
+      "meaning": "four; 4",
+      "level": 5
+    },
+    {
+      "id": 499,
+      "word": "七",
+      "romaji_reading": "shichi しち",
+      "pos": "Noun, Numeric",
+      "meaning": "seven; 7",
+      "level": 5
+    },
+    {
+      "id": 500,
+      "word": "仕事",
+      "romaji_reading": "shigoto しごと",
+      "pos": "Noun, Verb, Suru verb",
+      "meaning": "work; job; business",
+      "level": 5
+    },
+    {
+      "id": 501,
+      "word": "閉まる",
+      "romaji_reading": "shimaru しまる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to close, to be closed",
+      "level": 5
+    },
+    {
+      "id": 502,
+      "word": "閉める",
+      "romaji_reading": "shimeru しめる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to close; to shut",
+      "level": 5
+    },
+    {
+      "id": 503,
+      "word": "締める",
+      "romaji_reading": "shimeru しめる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to tie; to fasten; to tighten",
+      "level": 5
+    },
+    {
+      "id": 504,
+      "word": "新聞",
+      "romaji_reading": "shinbun しんぶん",
+      "pos": "Noun",
+      "meaning": "newspaper",
+      "level": 5
+    },
+    {
+      "id": 505,
+      "word": "死ぬ",
+      "romaji_reading": "shinu しぬ",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to die",
+      "level": 5
+    },
+    {
+      "id": 506,
+      "word": "塩",
+      "romaji_reading": "shio しお",
+      "pos": "Noun",
+      "meaning": "salt",
+      "level": 5
+    },
+    {
+      "id": 507,
+      "word": "白",
+      "romaji_reading": "shiro しろ",
+      "pos": "Noun",
+      "meaning": "white; innocence; innocent person",
+      "level": 5
+    },
+    {
+      "id": 508,
+      "word": "白い",
+      "romaji_reading": "shiroi しろい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "white",
+      "level": 5
+    },
+    {
+      "id": 509,
+      "word": "知る",
+      "romaji_reading": "shiru しる",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to know",
+      "level": 5
+    },
+    {
+      "id": 510,
+      "word": "下",
+      "romaji_reading": "shita した",
+      "pos": "Noun",
+      "meaning": "below; down; under; bottom",
+      "level": 5
+    },
+    {
+      "id": 511,
+      "word": "質問",
+      "romaji_reading": "shitsumon しつもん",
+      "pos": "Noun, Verb, Suru verb",
+      "meaning": "question; inquiry",
+      "level": 5
+    },
+    {
+      "id": 512,
+      "word": "静か",
+      "romaji_reading": "shizuka しずか",
+      "pos": "Adjective, な-adjective",
+      "meaning": "quiet",
+      "level": 5
+    },
+    {
+      "id": 513,
+      "word": "食堂",
+      "romaji_reading": "shokudou しょくどう",
+      "pos": "Noun",
+      "meaning": "cafeteria; dining room",
+      "level": 5
+    },
+    {
+      "id": 514,
+      "word": "醬油",
+      "romaji_reading": "shouyu しょうゆ",
+      "pos": "Noun",
+      "meaning": "soy sauce",
+      "level": 5
+    },
+    {
+      "id": 515,
+      "word": "宿題",
+      "romaji_reading": "shukudai しゅくだい",
+      "pos": "Noun",
+      "meaning": "homework; assignment; pending issue",
+      "level": 5
+    },
+    {
+      "id": 516,
+      "word": "そば",
+      "romaji_reading": "soba",
+      "pos": "Noun",
+      "meaning": "near; beside",
+      "level": 5
+    },
+    {
+      "id": 517,
+      "word": "そっち",
+      "romaji_reading": "socchi",
+      "pos": "Pronoun",
+      "meaning": "that way; over there",
+      "level": 5
+    },
+    {
+      "id": 518,
+      "word": "そちら",
+      "romaji_reading": "sochira",
+      "pos": "Pronoun",
+      "meaning": "that way (distant from speaker, close to listener); you; your family",
+      "level": 5
+    },
+    {
+      "id": 519,
+      "word": "そこ",
+      "romaji_reading": "soko",
+      "pos": "Pronoun",
+      "meaning": "that place; there",
+      "level": 5
+    },
+    {
+      "id": 520,
+      "word": "その",
+      "romaji_reading": "sono",
+      "pos": "Pre-noun adjectival",
+      "meaning": "that",
+      "level": 5
+    },
+    {
+      "id": 521,
+      "word": "空",
+      "romaji_reading": "sora そら",
+      "pos": "Noun",
+      "meaning": "sky; the air",
+      "level": 5
+    },
+    {
+      "id": 522,
+      "word": "それ",
+      "romaji_reading": "sore",
+      "pos": "Pronoun",
+      "meaning": "that",
+      "level": 5
+    },
+    {
+      "id": 523,
+      "word": "それでは",
+      "romaji_reading": "sore dewa",
+      "pos": "Expression",
+      "meaning": "in that situation",
+      "level": 5
+    },
+    {
+      "id": 524,
+      "word": "外",
+      "romaji_reading": "soto そと",
+      "pos": "Noun",
+      "meaning": "outside; exterior;",
+      "level": 5
+    },
+    {
+      "id": 525,
+      "word": "掃除",
+      "romaji_reading": "souji そうじ",
+      "pos": "Noun, Suru verb",
+      "meaning": "to clean, to sweep",
+      "level": 5
+    },
+    {
+      "id": 526,
+      "word": "直ぐに",
+      "romaji_reading": "sugu ni すぐに",
+      "pos": "Adverb",
+      "meaning": "immediately; right away; instantly",
+      "level": 5
+    },
+    {
+      "id": 527,
+      "word": "水曜日",
+      "romaji_reading": "suiyoubi すいようび",
+      "pos": "Noun",
+      "meaning": "Wednesday",
+      "level": 5
+    },
+    {
+      "id": 528,
+      "word": "スカート",
+      "romaji_reading": "sukaato",
+      "pos": "Noun, Katakana",
+      "meaning": "skirt",
+      "level": 5
+    },
+    {
+      "id": 529,
+      "word": "好き",
+      "romaji_reading": "suki すき",
+      "pos": "Noun, Adjective, な-adjective",
+      "meaning": "like",
+      "level": 5
+    },
+    {
+      "id": 530,
+      "word": "少し",
+      "romaji_reading": "sukoshi すこし",
+      "pos": "Noun, Adverb",
+      "meaning": "a little (bit); small quantity; few; short distance",
+      "level": 5
+    },
+    {
+      "id": 531,
+      "word": "少ない",
+      "romaji_reading": "sukunai すくない",
+      "pos": "い-adjective",
+      "meaning": "few; a little; scarce; insufficient; seldom",
+      "level": 5
+    },
+    {
+      "id": 532,
+      "word": "住む",
+      "romaji_reading": "sumu すむ",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to live in; to reside; to inhabit; to dwell; to abide",
+      "level": 5
+    },
+    {
+      "id": 533,
+      "word": "スポーツ",
+      "romaji_reading": "supootsu",
+      "pos": "Noun, Katakana",
+      "meaning": "sport; sports",
+      "level": 5
+    },
+    {
+      "id": 534,
+      "word": "スプーン",
+      "romaji_reading": "supuun",
+      "pos": "Noun, Katakana",
+      "meaning": "spoon",
+      "level": 5
+    },
+    {
+      "id": 535,
+      "word": "スリッパ",
+      "romaji_reading": "surippa",
+      "pos": "Noun, Katakana",
+      "meaning": "slipper; slippers",
+      "level": 5
+    },
+    {
+      "id": 536,
+      "word": "ストーブ",
+      "romaji_reading": "sutoobu",
+      "pos": "Noun, Katakana",
+      "meaning": "heater; stove",
+      "level": 5
+    },
+    {
+      "id": 537,
+      "word": "吸う",
+      "romaji_reading": "suu すう",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to smoke, to suck",
+      "level": 5
+    },
+    {
+      "id": 538,
+      "word": "座る",
+      "romaji_reading": "suwaru すわる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to sit",
+      "level": 5
+    },
+    {
+      "id": 539,
+      "word": "涼しい",
+      "romaji_reading": "suzushii すずしい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "refreshing, cool",
+      "level": 5
+    },
+    {
+      "id": 540,
+      "word": "たばこ",
+      "romaji_reading": "tabako",
+      "pos": "Noun",
+      "meaning": "tobacco; cigarette",
+      "level": 5
+    },
+    {
+      "id": 541,
+      "word": "食べ物",
+      "romaji_reading": "tabemono たべもの",
+      "pos": "Noun",
+      "meaning": "food",
+      "level": 5
+    },
+    {
+      "id": 542,
+      "word": "食べる",
+      "romaji_reading": "taberu たべる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to eat",
+      "level": 5
+    },
+    {
+      "id": 543,
+      "word": "多分",
+      "romaji_reading": "tabun たぶん",
+      "pos": "Adjective, な-adjective, Adverb",
+      "meaning": "perhaps; probably",
+      "level": 5
+    },
+    {
+      "id": 544,
+      "word": "大変",
+      "romaji_reading": "taihen たいへん",
+      "pos": "Noun, Adjective, な-adjective, Adverb",
+      "meaning": "very; greatly; terribly; serious; difficult",
+      "level": 5
+    },
+    {
+      "id": 545,
+      "word": "大切",
+      "romaji_reading": "taisetsu たいせつ",
+      "pos": "Noun, Adjective, な-adjective",
+      "meaning": "important; necessary; indispensable; beloved",
+      "level": 5
+    },
+    {
+      "id": 546,
+      "word": "大使館",
+      "romaji_reading": "taishikan たいしかん",
+      "pos": "Noun",
+      "meaning": "embassy",
+      "level": 5
+    },
+    {
+      "id": 547,
+      "word": "高い",
+      "romaji_reading": "takai たかい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "high; tall; expensive; above average",
+      "level": 5
+    },
+    {
+      "id": 548,
+      "word": "沢山",
+      "romaji_reading": "takusan たくさん",
+      "pos": "Noun, Adverbial Noun, Adjective, な-adjective",
+      "meaning": "many",
+      "level": 5
+    },
+    {
+      "id": 549,
+      "word": "タクシー",
+      "romaji_reading": "takushii",
+      "pos": "Noun, Katakana",
+      "meaning": "taxi",
+      "level": 5
+    },
+    {
+      "id": 550,
+      "word": "卵",
+      "romaji_reading": "tamago たまご",
+      "pos": "Noun",
+      "meaning": "eggs; egg",
+      "level": 5
+    },
+    {
+      "id": 551,
+      "word": "誕生日",
+      "romaji_reading": "tanjoubi たんじょうび",
+      "pos": "Noun",
+      "meaning": "birthday",
+      "level": 5
+    },
+    {
+      "id": 552,
+      "word": "頼む",
+      "romaji_reading": "tanomu たのむ",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to ask",
+      "level": 5
+    },
+    {
+      "id": 553,
+      "word": "楽しい",
+      "romaji_reading": "tanoshii たのしい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "enjoyable; fun",
+      "level": 5
+    },
+    {
+      "id": 554,
+      "word": "縦",
+      "romaji_reading": "tate たて",
+      "pos": "Noun",
+      "meaning": "length,height",
+      "level": 5
+    },
+    {
+      "id": 555,
+      "word": "建物",
+      "romaji_reading": "tatemono たてもの",
+      "pos": "Noun",
+      "meaning": "building",
+      "level": 5
+    },
+    {
+      "id": 556,
+      "word": "立つ",
+      "romaji_reading": "tatsu たつ",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to stand; to stand up",
+      "level": 5
+    },
+    {
+      "id": 557,
+      "word": "手",
+      "romaji_reading": "te て",
+      "pos": "Noun",
+      "meaning": "hand; arm",
+      "level": 5
+    },
+    {
+      "id": 558,
+      "word": "テーブル",
+      "romaji_reading": "teeburu",
+      "pos": "Noun, Katakana",
+      "meaning": "table",
+      "level": 5
+    },
+    {
+      "id": 559,
+      "word": "テープ",
+      "romaji_reading": "teepu",
+      "pos": "Noun, Katakana",
+      "meaning": "tape",
+      "level": 5
+    },
+    {
+      "id": 560,
+      "word": "テープレコーダー",
+      "romaji_reading": "teepu rekoodaa",
+      "pos": "Noun, Katakana",
+      "meaning": "tape recorder",
+      "level": 5
+    },
+    {
+      "id": 561,
+      "word": "手紙",
+      "romaji_reading": "tegami てがみ",
+      "pos": "Noun",
+      "meaning": "Letter (message)",
+      "level": 5
+    },
+    {
+      "id": 562,
+      "word": "天気",
+      "romaji_reading": "tenki てんき",
+      "pos": "Noun",
+      "meaning": "weather; the elements",
+      "level": 5
+    },
+    {
+      "id": 563,
+      "word": "テレビ",
+      "romaji_reading": "terebi",
+      "pos": "Noun, Katakana",
+      "meaning": "television; TV",
+      "level": 5
+    },
+    {
+      "id": 564,
+      "word": "テスト",
+      "romaji_reading": "tesuto",
+      "pos": "Noun, Suru verb, Katakana",
+      "meaning": "examination; quiz; test",
+      "level": 5
+    },
+    {
+      "id": 565,
+      "word": "戸",
+      "romaji_reading": "to と",
+      "pos": "Noun",
+      "meaning": "Japanese style door",
+      "level": 5
+    },
+    {
+      "id": 566,
+      "word": "飛ぶ",
+      "romaji_reading": "tobu とぶ",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to fly; to hop",
+      "level": 5
+    },
+    {
+      "id": 567,
+      "word": "トイレ",
+      "romaji_reading": "toire",
+      "pos": "Noun, Katakana",
+      "meaning": "toilet",
+      "level": 5
+    },
+    {
+      "id": 568,
+      "word": "時計",
+      "romaji_reading": "tokei とけい",
+      "pos": "Noun",
+      "meaning": "watch; clock; timepiece",
+      "level": 5
+    },
+    {
+      "id": 569,
+      "word": "時",
+      "romaji_reading": "toki とき",
+      "pos": "Noun",
+      "meaning": "time; moment; occasion; chance",
+      "level": 5
+    },
+    {
+      "id": 570,
+      "word": "時々",
+      "romaji_reading": "tokidoki ときどき",
+      "pos": "Noun, Adverb",
+      "meaning": "sometimes; at times",
+      "level": 5
+    },
+    {
+      "id": 571,
+      "word": "所",
+      "romaji_reading": "tokoro ところ",
+      "pos": "Noun, Suffix",
+      "meaning": "place",
+      "level": 5
+    },
+    {
+      "id": 572,
+      "word": "止まる",
+      "romaji_reading": "tomaru とまる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to stop; to come to a halt",
+      "level": 5
+    },
+    {
+      "id": 573,
+      "word": "友達",
+      "romaji_reading": "tomodachi ともだち",
+      "pos": "Noun",
+      "meaning": "friend; companion",
+      "level": 5
+    },
+    {
+      "id": 574,
+      "word": "隣",
+      "romaji_reading": "tonari となり",
+      "pos": "Noun",
+      "meaning": "next door to",
+      "level": 5
+    },
+    {
+      "id": 575,
+      "word": "遠い",
+      "romaji_reading": "tooi とおい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "far",
+      "level": 5
+    },
+    {
+      "id": 576,
+      "word": "十日",
+      "romaji_reading": "tooka おおか",
+      "pos": "Noun",
+      "meaning": "tenth day of the month / 10 days",
+      "level": 5
+    },
+    {
+      "id": 577,
+      "word": "鳥",
+      "romaji_reading": "tori とり",
+      "pos": "Noun",
+      "meaning": "bird",
+      "level": 5
+    },
+    {
+      "id": 578,
+      "word": "鶏肉",
+      "romaji_reading": "toriniku とりにく",
+      "pos": "Noun",
+      "meaning": "chicken meat",
+      "level": 5
+    },
+    {
+      "id": 579,
+      "word": "取る",
+      "romaji_reading": "toru とる",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to take; to pick up; to harvest; to earn; to win; to choose",
+      "level": 5
+    },
+    {
+      "id": 580,
+      "word": "撮る",
+      "romaji_reading": "toru とる",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to take a photo or record a film",
+      "level": 5
+    },
+    {
+      "id": 581,
+      "word": "年",
+      "romaji_reading": "toshi とし",
+      "pos": "Noun",
+      "meaning": "year; age",
+      "level": 5
+    },
+    {
+      "id": 582,
+      "word": "図書館",
+      "romaji_reading": "toshokan としょかん",
+      "pos": "Noun",
+      "meaning": "library",
+      "level": 5
+    },
+    {
+      "id": 583,
+      "word": "次",
+      "romaji_reading": "tsugi つぎ",
+      "pos": "Noun",
+      "meaning": "next",
+      "level": 5
+    },
+    {
+      "id": 584,
+      "word": "一日",
+      "romaji_reading": "tsuitachi ついたち",
+      "pos": "Noun",
+      "meaning": "first day of the month",
+      "level": 5
+    },
+    {
+      "id": 585,
+      "word": "疲れる",
+      "romaji_reading": "tsukareru つかれる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to get tired",
+      "level": 5
+    },
+    {
+      "id": 586,
+      "word": "使う",
+      "romaji_reading": "tsukau つかう",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to use",
+      "level": 5
+    },
+    {
+      "id": 587,
+      "word": "つける",
+      "romaji_reading": "tsukeru",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to turn on",
+      "level": 5
+    },
+    {
+      "id": 588,
+      "word": "付ける",
+      "romaji_reading": "tsukeru つける",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to attach; affix; add; apply",
+      "level": 5
+    },
+    {
+      "id": 589,
+      "word": "着く",
+      "romaji_reading": "tsuku つく",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to arrive at",
+      "level": 5
+    },
+    {
+      "id": 590,
+      "word": "机",
+      "romaji_reading": "tsukue つくえ",
+      "pos": "Noun",
+      "meaning": "desk",
+      "level": 5
+    },
+    {
+      "id": 591,
+      "word": "作る",
+      "romaji_reading": "tsukuru つくる",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to make",
+      "level": 5
+    },
+    {
+      "id": 592,
+      "word": "詰まらない",
+      "romaji_reading": "tsumaranai つまらない",
+      "pos": "Adjective, い-adjective",
+      "meaning": "boring",
+      "level": 5
+    },
+    {
+      "id": 593,
+      "word": "冷たい",
+      "romaji_reading": "tsumetai つめたい",
+      "pos": "い-adjective",
+      "meaning": "cold to the touch",
+      "level": 5
+    },
+    {
+      "id": 594,
+      "word": "勤める",
+      "romaji_reading": "tsutomeru つとめる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to work for someone",
+      "level": 5
+    },
+    {
+      "id": 595,
+      "word": "強い",
+      "romaji_reading": "tsuyoi つよい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "powerful",
+      "level": 5
+    },
+    {
+      "id": 596,
+      "word": "上",
+      "romaji_reading": "ue うえ",
+      "pos": "Noun, Suffix",
+      "meaning": "above; up; over; top; surface",
+      "level": 5
+    },
+    {
+      "id": 597,
+      "word": "生まれる",
+      "romaji_reading": "umareru うまれる",
+      "pos": "Verb, Ichidan verb, Intransitive verb",
+      "meaning": "to be born",
+      "level": 5
+    },
+    {
+      "id": 598,
+      "word": "海",
+      "romaji_reading": "umi うみ",
+      "pos": "Noun",
+      "meaning": "sea",
+      "level": 5
+    },
+    {
+      "id": 599,
+      "word": "売る",
+      "romaji_reading": "uru うる",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to sell",
+      "level": 5
+    },
+    {
+      "id": 600,
+      "word": "煩い",
+      "romaji_reading": "urusai うるさい",
+      "pos": "い-adjective",
+      "meaning": "noisy, annoying",
+      "level": 5
+    },
+    {
+      "id": 601,
+      "word": "後ろ",
+      "romaji_reading": "ushiro うしろ",
+      "pos": "Noun",
+      "meaning": "back; behind; rear",
+      "level": 5
+    },
+    {
+      "id": 602,
+      "word": "薄い",
+      "romaji_reading": "usui うすい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "thin; weak",
+      "level": 5
+    },
+    {
+      "id": 603,
+      "word": "歌",
+      "romaji_reading": "uta うた",
+      "pos": "Noun",
+      "meaning": "song",
+      "level": 5
+    },
+    {
+      "id": 604,
+      "word": "歌う",
+      "romaji_reading": "utau うたう",
+      "pos": "Verb, Godan verb, Intransitive verb, Transitive verb",
+      "meaning": "to sing",
+      "level": 5
+    },
+    {
+      "id": 605,
+      "word": "上着",
+      "romaji_reading": "uwagi うわぎ",
+      "pos": "Noun",
+      "meaning": "coat; tunic; jacket; outer garment",
+      "level": 5
+    },
+    {
+      "id": 606,
+      "word": "ワイシャツ",
+      "romaji_reading": "wai shatsu",
+      "pos": "Noun, Katakana, Wasei",
+      "meaning": "shirt",
+      "level": 5
+    },
+    {
+      "id": 607,
+      "word": "若い",
+      "romaji_reading": "wakai わかい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "young",
+      "level": 5
+    },
+    {
+      "id": 608,
+      "word": "分かる",
+      "romaji_reading": "wakaru わかる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to understand; to comprehend; to grasp; to see; to get; to follow",
+      "level": 5
+    },
+    {
+      "id": 609,
+      "word": "悪い",
+      "romaji_reading": "warui わるい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "bad; poor; undesirable",
+      "level": 5
+    },
+    {
+      "id": 610,
+      "word": "忘れる",
+      "romaji_reading": "wasureru わすれる",
+      "pos": "Verb, Ichidan verb, Transitive verb",
+      "meaning": "to forget",
+      "level": 5
+    },
+    {
+      "id": 611,
+      "word": "渡る",
+      "romaji_reading": "wataru わたる",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to go across",
+      "level": 5
+    },
+    {
+      "id": 612,
+      "word": "私",
+      "romaji_reading": "watashi わたし",
+      "pos": "Pronoun",
+      "meaning": "I; myself",
+      "level": 5
+    },
+    {
+      "id": 613,
+      "word": "渡す",
+      "romaji_reading": "watasu わたす",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to hand over",
+      "level": 5
+    },
+    {
+      "id": 614,
+      "word": "山",
+      "romaji_reading": "yama やま",
+      "pos": "Noun",
+      "meaning": "mountain; hill",
+      "level": 5
+    },
+    {
+      "id": 615,
+      "word": "八百屋",
+      "romaji_reading": "yaoya やおや",
+      "pos": "Noun",
+      "meaning": "greengrocer; fruit and vegetable shop; versatile",
+      "level": 5
+    },
+    {
+      "id": 616,
+      "word": "やる",
+      "romaji_reading": "yaru",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to do",
+      "level": 5
+    },
+    {
+      "id": 617,
+      "word": "野菜",
+      "romaji_reading": "yasai やさい",
+      "pos": "Noun",
+      "meaning": "vegetable",
+      "level": 5
+    },
+    {
+      "id": 618,
+      "word": "易しい",
+      "romaji_reading": "yasashii やさしい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "easy, simple",
+      "level": 5
+    },
+    {
+      "id": 619,
+      "word": "安い",
+      "romaji_reading": "yasui やすい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "cheap; inexpensive",
+      "level": 5
+    },
+    {
+      "id": 620,
+      "word": "休み",
+      "romaji_reading": "yasumi やすみ",
+      "pos": "Noun",
+      "meaning": "rest; vacation; holiday",
+      "level": 5
+    },
+    {
+      "id": 621,
+      "word": "休む",
+      "romaji_reading": "yasumu やすむ",
+      "pos": "Verb, Godan verb, Intransitive verb",
+      "meaning": "to be absent; to take a day off; to rest",
+      "level": 5
+    },
+    {
+      "id": 622,
+      "word": "八つ",
+      "romaji_reading": "yattsu やっつ",
+      "pos": "Noun, Numeric",
+      "meaning": "eight: 8",
+      "level": 5
+    },
+    {
+      "id": 623,
+      "word": "呼ぶ",
+      "romaji_reading": "yobu よぶ",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to call out, to invite",
+      "level": 5
+    },
+    {
+      "id": 624,
+      "word": "良い",
+      "romaji_reading": "yoi/ii よい/いい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "good",
+      "level": 5
+    },
+    {
+      "id": 625,
+      "word": "四日",
+      "romaji_reading": "yokka よっか",
+      "pos": "Noun",
+      "meaning": "fourth day of the month / 4 days",
+      "level": 5
+    },
+    {
+      "id": 626,
+      "word": "横",
+      "romaji_reading": "yoko よこ",
+      "pos": "Noun",
+      "meaning": "beside,side,width",
+      "level": 5
+    },
+    {
+      "id": 627,
+      "word": "よく",
+      "romaji_reading": "yoku",
+      "pos": "Adverb",
+      "meaning": "often, well",
+      "level": 5
+    },
+    {
+      "id": 628,
+      "word": "読む",
+      "romaji_reading": "yomu よむ",
+      "pos": "Verb, Godan verb, Transitive verb",
+      "meaning": "to read; to guess; to predict; to read (someone's thoughts)",
+      "level": 5
+    },
+    {
+      "id": 629,
+      "word": "夜",
+      "romaji_reading": "yoru よる",
+      "pos": "Noun",
+      "meaning": "evening; night",
+      "level": 5
+    },
+    {
+      "id": 630,
+      "word": "四つ",
+      "romaji_reading": "yotsu よつ",
+      "pos": "Noun, Numeric",
+      "meaning": "four; 4",
+      "level": 5
+    },
+    {
+      "id": 631,
+      "word": "洋服",
+      "romaji_reading": "youfuku ようふく",
+      "pos": "Noun",
+      "meaning": "western clothes",
+      "level": 5
+    },
+    {
+      "id": 632,
+      "word": "八日",
+      "romaji_reading": "youka ようか",
+      "pos": "Noun",
+      "meaning": "eighth day of the month / 8 days",
+      "level": 5
+    },
+    {
+      "id": 633,
+      "word": "弱い",
+      "romaji_reading": "yowai よわい",
+      "pos": "Adjective, い-adjective",
+      "meaning": "weak",
+      "level": 5
+    },
+    {
+      "id": 634,
+      "word": "雪",
+      "romaji_reading": "yuki ゆき",
+      "pos": "Noun",
+      "meaning": "snow",
+      "level": 5
+    },
+    {
+      "id": 635,
+      "word": "ゆっくり",
+      "romaji_reading": "yukkuri",
+      "pos": "Adverb",
+      "meaning": "slowly",
+      "level": 5
+    },
+    {
+      "id": 636,
+      "word": "昨夜",
+      "romaji_reading": "yuube ゆうべ",
+      "pos": "Noun",
+      "meaning": "last night",
+      "level": 5
+    },
+    {
+      "id": 637,
+      "word": "郵便局",
+      "romaji_reading": "yuubinkyoku ゆうびんきょく",
+      "pos": "Noun",
+      "meaning": "post office",
+      "level": 5
+    },
+    {
+      "id": 638,
+      "word": "夕方",
+      "romaji_reading": "yuugata ゆうがた",
+      "pos": "Noun",
+      "meaning": "evening; dusk",
+      "level": 5
+    },
+    {
+      "id": 639,
+      "word": "夕飯",
+      "romaji_reading": "yuuhan ゆうはん",
+      "pos": "Noun",
+      "meaning": "evening meal",
+      "level": 5
+    },
+    {
+      "id": 640,
+      "word": "有名",
+      "romaji_reading": "yuumei ゆうめい",
+      "pos": "Noun, Adjective, な-adjective",
+      "meaning": "famous",
+      "level": 5
+    },
+    {
+      "id": 641,
+      "word": "雑誌",
+      "romaji_reading": "zasshi ざっし",
+      "pos": "Noun",
+      "meaning": "magazine",
+      "level": 5
+    },
+    {
+      "id": 642,
+      "word": "全部",
+      "romaji_reading": "zenbu ぜんぶ",
+      "pos": "Noun, Adverbial Noun",
+      "meaning": "all",
+      "level": 5
+    },
+    {
+      "id": 643,
+      "word": "ゼロ",
+      "romaji_reading": "zero",
+      "pos": "Noun",
+      "meaning": "zero",
+      "level": 5
+    },
+    {
+      "id": 644,
+      "word": "ズボン",
+      "romaji_reading": "zubon",
+      "pos": "Noun, Katakana",
+      "meaning": "trousers; pants",
+      "level": 5
+    }
+  ]
+}
+

@@ -2,6 +2,7 @@ import express, { json } from 'express';
 import { config } from 'dotenv';
 import cors from 'cors';
 import grammarRoutes from './routes/grammarRoutes.js';
+import vocabularyRoutes from './routes/vocabRoutes.js';
 
 config();
 
@@ -11,6 +12,8 @@ app.use(cors());
 app.use(json());
 
 app.use('/api/grammar', grammarRoutes);
+
+app.use('/api/vocabulary', vocabularyRoutes);
 
 app.use('/', express.static('frontend'));
 

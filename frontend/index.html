@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JLPT Grammar API - Docs</title>
+    <title>JLPT API - Docs</title>
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
@@ -85,18 +85,18 @@
 </head>
 <body>
     <div class="container">
-        <h1>JLPT Grammar API</h1>
-        <p>A simple read-only API for retrieving JLPT grammar points.</p>
+        <h1>JLPT API</h1>
+        <p>A simple read-only API for retrieving JLPT grammar, vocabulary and kanji.</p>
 
         <h3>Base URL</h3>
         <p>Depending on where you are accessing the API:</p>
         <ul>
-            <li><strong>Local development:</strong> <code class="url">http://localhost:4000</code></li>
+            <li><strong>Local development:</strong> <code class="url">http://localhost:5000</code></li>
             <li><strong>Deployed on Vercel:</strong> <code class="url">https://jlpt-grammar-api.vercel.app</code></li>
         </ul>
-        <p>All endpoints are relative to the base URL, e.g., <code class="url">/api/grammar/N5</code> or <code class="url">/api/grammar/N4</code>.</p>
+        <p>All endpoints are relative to the base URL.</p>
 
-        <h2>Endpoints</h2>
+        <h2>Grammar Endpoints</h2>
 
         <div class="endpoint">
             <h3>Get All Grammar by Level</h3>
@@ -104,24 +104,19 @@
                 <span class="badge get">GET</span>
                 <code class="url">/api/grammar/:level</code>
             </p>
-            <p>Retrieves a JSON array of all grammar points for a specific JLPT level. Supported levels: <strong>N5 and N4</strong>.</p>
-
+            <p>Retrieves a JSON array of all grammar points. Supported levels: <strong>N5, N4</strong>.</p>
             <h4>URL Parameters</h4>
             <ul>
-                <li><code>:level</code> (string) - <strong>Required</strong>. The JLPT level (e.g., <code>N5</code>, <code>N4</code>).</li>
+                <li><code>:level</code> (string) - <strong>Required</strong>. (e.g., <code>N5</code>, <code>N4</code>).</li>
             </ul>
-
             <h4>✅ Success Response (200 OK)</h4>
-            <p>Returns a full array of grammar objects.</p>
             <pre><code>[{
   "id": 1,
   "grammar_point": "ちゃいけない・じゃいけない",
   "romaji": "cha ikenai / ja ikenai",
   // ...
 }]</code></pre>
-
             <h4>❌ Error Response (404 Not Found)</h4>
-            <p>Returned if the requested level is not found.</p>
             <pre><code>{
   "message": "Error fetching data for level N3. Level not found or is empty."
 }</code></pre>
@@ -133,27 +128,77 @@
                 <span class="badge get">GET</span>
                 <code class="url">/api/grammar/:level/:id</code>
             </p>
-            <p>Retrieves a single grammar point object specified by its <code>:level</code> and <code>:id</code>.</p>
-
+            <p>Retrieves a single grammar point object by its <code>:level</code> and <code>:id</code>.</p>
             <h4>URL Parameters</h4>
             <ul>
-                <li><code>:level</code> (string) - <strong>Required</strong>. JLPT level (e.g., <code>N5</code>, <code>N4</code>).</li>
-                <li><code>:id</code> (integer) - <strong>Required</strong>. ID of the grammar point to retrieve.</li>
+                <li><code>:level</code> (string) - <strong>Required</strong>. (e.g., <code>N5</code>, <code>N4</code>).</li>
+                <li><code>:id</code> (integer) - <strong>Required</strong>. The ID of the grammar point.</li>
             </ul>
-
             <h4>✅ Success Response (200 OK)</h4>
-            <p>Returns the single matching grammar object.</p>
             <pre><code>{
   "id": 15,
   "grammar_point": "ほうがいい",
   "romaji": "hou ga ii",
   // ...
 }</code></pre>
-
             <h4>❌ Error Response (404 Not Found)</h4>
-            <p>Returned if the requested <code>:id</code> does not exist for that level.</p>
             <pre><code>{
   "message": "Grammar point not found in N4"
+}</code></pre>
+        </div>
+
+        <h2>Vocabulary Endpoints</h2>
+
+        <div class="endpoint">
+            <h3>Get All Vocabulary by Level</h3>
+            <p>
+                <span class="badge get">GET</span>
+                <code class="url">/api/vocabulary/:level</code>
+            </p>
+            <p>Retrieves a JSON array of all vocabulary words. Supported levels: <strong>N5, N4</strong>.</p>
+            <h4>URL Parameters</h4>
+            <ul>
+                <li><code>:level</code> (string) - <strong>Required</strong>. (e.g., <code>N5</code>, <code>N4</code>).</li>
+            </ul>
+            <h4>✅ Success Response (200 OK)</h4>
+            <pre><code>[{
+  "id": 1,
+  "word": "浴びる",
+  "romaji_reading": "abiru あびる",
+  "pos": "Verb, Ichidan verb, Transitive verb",
+  "meaning": "to bathe, to shower",
+  "level": 5
+}]</code></pre>
+            <h4>❌ Error Response (404 Not Found)</h4>
+            <pre><code>{
+  "message": "Error fetching data for level N3. Level not found or is empty."
+}</code></pre>
+        </div>
+
+        <div class="endpoint">
+            <h3>Get Single Vocabulary by ID</h3>
+            <p>
+                <span class="badge get">GET</span>
+                <code class="url">/api/vocabulary/:level/:id</code>
+            </p>
+            <p>Retrieves a single vocabulary object by its <code>:level</code> and <code>:id</code>.</p>
+            <h4>URL Parameters</h4>
+            <ul>
+                <li><code>:level</code> (string) - <strong>Required</strong>. (e.g., <code>N5</code>, <code>N4</code>).</li>
+                <li><code>:id</code> (integer) - <strong>Required</strong>. The ID of the vocabulary word.</li>
+            </ul>
+            <h4>✅ Success Response (200 OK)</h4>
+            <pre><code>{
+  "id": 2,
+  "word": "危ない",
+  "romaji_reading": "abunai あぶない",
+  "pos": "Adjective, い-adjective",
+  "meaning": "dangerous",
+  "level": 5
+}</code></pre>
+            <h4>❌ Error Response (404 Not Found)</h4>
+            <pre><code>{
+  "message": "Vocabulary word not found in N4"
 }</code></pre>
         </div>
 

@@ -5,560 +5,641 @@
       "grammar": "ちゃいけない・じゃいけない",
       "romaji": "cha ikenai / ja ikenai",
       "meaning": "must not do (spoken Japanese)",
-      "example": "ここでタバコを吸っちゃいけないよ。 (Koko de tabako o succha ikenai yo.) - You must not smoke here."
+      "example": "ここでタバコを吸っちゃいけないよ。 (Koko de tabako o succha ikenai yo.) - You must not smoke here.",
+      "level": 5
     },
     {
       "id": 2,
       "grammar": "だ・です",
       "romaji": "da / desu",
       "meaning": "to be (am, is, are, were, used to)",
-      "example": "これは本です。 (Kore wa hon desu.) - This is a book."
+      "example": "これは本です。 (Kore wa hon desu.) - This is a book.",
+      "level": 5
     },
     {
       "id": 3,
       "grammar": "だけ",
       "romaji": "dake",
       "meaning": "only; just; as much as",
-      "example": "水だけください。 (Mizu dake kudasai.) - Just water, please."
+      "example": "水だけください。 (Mizu dake kudasai.) - Just water, please.",
+      "level": 5
     },
     {
       "id": 4,
       "grammar": "だろう",
       "romaji": "darou",
       "meaning": "I think; it seems; probably; right?",
-      "example": "彼は来ないだろう。 (Kare wa konai darou.) - He probably won't come."
+      "example": "彼は来ないだろう。 (Kare wa konai darou.) - He probably won't come.",
+      "level": 5
     },
     {
       "id": 5,
       "grammar": "で",
       "romaji": "de",
       "meaning": "in; at; on; by; with; via",
-      "example": "学校で勉強します。 (Gakkou de benkyou shimasu.) - I study at school."
+      "example": "学校で勉強します。 (Gakkou de benkyou shimasu.) - I study at school.",
+      "level": 5
     },
     {
       "id": 6,
       "grammar": "でも",
       "romaji": "demo",
       "meaning": "but; however",
-      "example": "行きたいけど、忙しい。 (Ikitai kedo, isogashii.) - I want to go, but I'm busy."
+      "example": "行きたいけど、忙しい。 (Ikitai kedo, isogashii.) - I want to go, but I'm busy.",
+      "level": 5
     },
     {
       "id": 7,
       "grammar": "でしょう",
       "romaji": "deshou",
       "meaning": "I think; it seems; probably; right?",
-      "example": "明日、雨でしょう。 (Ashita, ame deshou.) - It will probably rain tomorrow."
+      "example": "明日、雨でしょう。 (Ashita, ame deshou.) - It will probably rain tomorrow.",
+      "level": 5
     },
     {
       "id": 8,
       "grammar": "どんな",
       "romaji": "donna",
       "meaning": "what kind of; what sort of",
-      "example": "どんな映画が好き？ (Donna eiga ga suki?) - What kind of movies do you like?"
+      "example": "どんな映画が好き？ (Donna eiga ga suki?) - What kind of movies do you like?",
+      "level": 5
     },
     {
       "id": 9,
       "grammar": "どうして",
       "romaji": "doushite",
       "meaning": "why; for what reason; how",
-      "example": "どうして遅れたの？ (Doushite okureta no?) - Why were you late?"
+      "example": "どうして遅れたの？ (Doushite okureta no?) - Why were you late?",
+      "level": 5
     },
     {
       "id": 10,
       "grammar": "どうやって",
       "romaji": "douyatte",
       "meaning": "how; in what way; by what means",
-      "example": "駅までどうやって行く？ (Eki made douyatte iku?) - How do you get to the station?"
+      "example": "駅までどうやって行く？ (Eki made douyatte iku?) - How do you get to the station?",
+      "level": 5
     },
     {
       "id": 11,
       "grammar": "が",
       "romaji": "ga",
       "meaning": "subject marker; however; but",
-      "example": "猫が好きです。 (Neko ga suki desu.) - I like cats."
+      "example": "猫が好きです。 (Neko ga suki desu.) - I like cats.",
+      "level": 5
     },
     {
       "id": 12,
       "grammar": "があります",
       "romaji": "ga arimasu",
       "meaning": "there is; is (non-living things)",
-      "example": "机の上に本があります。 (Tsukue no ue ni hon ga arimasu.) - There is a book on the desk."
+      "example": "机の上に本があります。 (Tsukue no ue ni hon ga arimasu.) - There is a book on the desk.",
+      "level": 5
     },
     {
       "id": 13,
       "grammar": "がほしい",
       "romaji": "ga hoshii",
       "meaning": "to want something",
-      "example": "新しい車がほしい。 (Atarashii kuruma ga hoshii.) - I want a new car."
+      "example": "新しい車がほしい。 (Atarashii kuruma ga hoshii.) - I want a new car.",
+      "level": 5
     },
     {
       "id": 14,
       "grammar": "がいます",
       "romaji": "ga imasu",
       "meaning": "there is; to be; is (living things)",
-      "example": "庭に犬がいます。 (Niwa ni inu ga imasu.) - There is a dog in the garden."
+      "example": "庭に犬がいます。 (Niwa ni inu ga imasu.) - There is a dog in the garden.",
+      "level": 5
     },
     {
       "id": 15,
       "grammar": "ほうがいい",
       "romaji": "hou ga ii",
-      "meaning": "had better; it'd be better to; should~",
-      "example": "早く寝たほうがいいよ。 (Hayaku neta hou ga ii yo.) - You should go to bed early."
+      "meaning": "had better; it'd be better to; should",
+      "example": "早く寝たほうがいいよ。 (Hayaku neta hou ga ii yo.) - You should go to bed early.",
+      "level": 5
     },
     {
       "id": 16,
       "grammar": "い-adjectives",
       "romaji": "i-adjectives",
       "meaning": "i-adjectives",
-      "example": "このケーキはおいしい。 (Kono keeki wa oishii.) - This cake is delicious."
+      "example": "このケーキはおいしい。 (Kono keeki wa oishii.) - This cake is delicious.",
+      "level": 5
     },
     {
       "id": 17,
       "grammar": "一番",
       "romaji": "ichiban",
       "meaning": "the most; the best",
-      "example": "これが一番おいしい。 (Kore ga ichiban oishii.) - This is the most delicious."
+      "example": "これが一番おいしい。 (Kore ga ichiban oishii.) - This is the most delicious.",
+      "level": 5
     },
     {
       "id": 18,
       "grammar": "一緒に",
       "romaji": "issho ni",
       "meaning": "together",
-      "example": "友達と一緒に映画を見ました。 (Tomodachi to issho ni eiga o mimashita.) - I watched a movie with my friend."
+      "example": "友達と一緒に映画を見ました。 (Tomodachi to issho ni eiga o mimashita.) - I watched a movie with my friend.",
+      "level": 5
     },
     {
       "id": 19,
       "grammar": "いつも",
       "romaji": "itsumo",
       "meaning": "always; usually; habitually",
-      "example": "いつも朝ごはんを食べます。 (Itsumo asagohan o tabemasu.) - I always eat breakfast."
+      "example": "いつも朝ごはんを食べます。 (Itsumo asagohan o tabemasu.) - I always eat breakfast.",
+      "level": 5
     },
     {
       "id": 20,
       "grammar": "じゃない・ではない",
       "romaji": "janai / dewa nai",
       "meaning": "to not be (am not; is not; are not)",
-      "example": "これは猫じゃない。 (Kore wa neko janai.) - This is not a cat."
+      "example": "これは猫じゃない。 (Kore wa neko janai.) - This is not a cat.",
+      "level": 5
     },
     {
       "id": 21,
       "grammar": "か",
       "romaji": "ka",
       "meaning": "question particle",
-      "example": "これ、食べますか？ (Kore, tabemasu ka?) - Will you eat this?"
+      "example": "これ、食べますか？ (Kore, tabemasu ka?) - Will you eat this?",
+      "level": 5
     },
     {
       "id": 22,
       "grammar": "か〜か",
-      "romaji": "ka~ka",
+      "romaji": "kaka",
       "meaning": "or",
-      "example": "コーヒーか紅茶？ (Koohii ka koucha?) - Coffee or tea?"
+      "example": "コーヒーか紅茶？ (Koohii ka koucha?) - Coffee or tea?",
+      "level": 5
     },
     {
       "id": 23,
       "grammar": "から",
       "romaji": "kara",
       "meaning": "because; since; from",
-      "example": "疲れたから休みます。 (Tsukareta kara yasumimasu.) - I'm tired, so I'll rest."
+      "example": "疲れたから休みます。 (Tsukareta kara yasumimasu.) - I'm tired, so I'll rest.",
+      "level": 5
     },
     {
       "id": 24,
       "grammar": "方",
       "romaji": "kata",
       "meaning": "the way of doing something; how to do",
-      "example": "この漢字の書き方を教えて。 (Kono kanji no kakikata o oshiete.) - Teach me how to write this kanji."
+      "example": "この漢字の書き方を教えて。 (Kono kanji no kakikata o oshiete.) - Teach me how to write this kanji.",
+      "level": 5
     },
     {
       "id": 25,
       "grammar": "けど",
       "romaji": "kedo",
       "meaning": "but; however; although",
-      "example": "行きたいけど、お金がない。 (Ikitai kedo, okane ga nai.) - I want to go, but I have no money."
+      "example": "行きたいけど、お金がない。 (Ikitai kedo, okane ga nai.) - I want to go, but I have no money.",
+      "level": 5
     },
     {
       "id": 26,
       "grammar": "けれども",
       "romaji": "keredo mo",
       "meaning": "but; however; although",
-      "example": "忙しいけれども、会いたい。 (Isogashii keredomo, aitai.) - I'm busy, but I want to meet."
+      "example": "忙しいけれども、会いたい。 (Isogashii keredomo, aitai.) - I'm busy, but I want to meet.",
+      "level": 5
     },
     {
       "id": 27,
       "grammar": "まだ",
       "romaji": "mada",
       "meaning": "still; not yet",
-      "example": "まだ宿題が終わっていない。 (Mada shukudai ga owatte inai.) - I haven't finished my homework yet."
+      "example": "まだ宿題が終わっていない。 (Mada shukudai ga owatte inai.) - I haven't finished my homework yet.",
+      "level": 5
     },
     {
       "id": 28,
       "grammar": "まだ〜ていません",
-      "romaji": "mada ~te imasen",
+      "romaji": "mada te imasen",
       "meaning": "have not yet",
-      "example": "まだ食べていません。 (Mada tabete imasen.) - I haven't eaten yet."
+      "example": "まだ食べていません。 (Mada tabete imasen.) - I haven't eaten yet.",
+      "level": 5
     },
     {
       "id": 29,
       "grammar": "まで",
       "romaji": "made",
       "meaning": "until ~; as far as ~; to (an extent); even ~",
-      "example": "駅まで歩きます。 (Eki made arukimasu.) - I'll walk to the station."
+      "example": "駅まで歩きます。 (Eki made arukimasu.) - I'll walk to the station.",
+      "level": 5
     },
     {
       "id": 30,
       "grammar": "前に",
       "romaji": "mae ni",
       "meaning": "before ~; in front of ~",
-      "example": "寝る前に本を読みます。 (Neru mae ni hon o yomimasu.) - I read a book before going to bed."
+      "example": "寝る前に本を読みます。 (Neru mae ni hon o yomimasu.) - I read a book before going to bed.",
+      "level": 5
     },
     {
       "id": 31,
       "grammar": "ませんか",
       "romaji": "masen ka",
-      "meaning": "would you; do you want to; shall we~",
-      "example": "一緒に行きませんか？ (Issho ni ikimasen ka?) - Shall we go together?"
+      "meaning": "would you; do you want to; shall we",
+      "example": "一緒に行きませんか？ (Issho ni ikimasen ka?) - Shall we go together?",
+      "level": 5
     },
     {
       "id": 32,
       "grammar": "ましょう",
       "romaji": "mashou",
-      "meaning": "let's ~; shall we ~",
-      "example": "映画を見ましょう。 (Eiga o mimashou.) - Let's watch a movie."
+      "meaning": "let's ; shall we ~",
+      "example": "映画を見ましょう。 (Eiga o mimashou.) - Let's watch a movie.",
+      "level": 5
     },
     {
       "id": 33,
       "grammar": "ましょうか",
       "romaji": "mashouka",
       "meaning": "shall I ~; used to offer help to the listener",
-      "example": "荷物を持ちましょうか？ (Nimotsu o mochimashou ka?) - Shall I carry your luggage?"
+      "example": "荷物を持ちましょうか？ (Nimotsu o mochimashou ka?) - Shall I carry your luggage?",
+      "level": 5
     },
     {
       "id": 34,
       "grammar": "も",
       "romaji": "mo",
       "meaning": "too; also; as well",
-      "example": "私も行きます。 (Watashi mo ikimasu.) - I'll go too."
+      "example": "私も行きます。 (Watashi mo ikimasu.) - I'll go too.",
+      "level": 5
     },
     {
       "id": 35,
       "grammar": "もう",
       "romaji": "mou",
       "meaning": "already; anymore; again; other",
-      "example": "もう食べました。 (Mou tabemashita.) - I already ate."
+      "example": "もう食べました。 (Mou tabemashita.) - I already ate.",
+      "level": 5
     },
     {
       "id": 36,
       "grammar": "な-adjectives",
       "romaji": "na-adjectives",
       "meaning": "na-adjectives",
-      "example": "この部屋は静かな。 (Kono heya wa shizuka na.) - This room is quiet."
+      "example": "この部屋は静かな。 (Kono heya wa shizuka na.) - This room is quiet.",
+      "level": 5
     },
     {
       "id": 37,
       "grammar": "なあ",
       "romaji": "naa",
       "meaning": "sentence ending particle; confirmation; admiration, etc",
-      "example": "いい天気だなあ。 (Ii tenki da naa.) - Nice weather, isn't it?"
+      "example": "いい天気だなあ。 (Ii tenki da naa.) - Nice weather, isn't it?",
+      "level": 5
     },
     {
       "id": 38,
       "grammar": "ないで",
       "romaji": "naide",
-      "meaning": "without doing~ ; To do [B] without doing [A]",
-      "example": "歯を磨かないで寝ました。 (Ha o migakanaide nemashita.) - I went to bed without brushing my teeth."
+      "meaning": "without doing ; To do [B] without doing [A]",
+      "example": "歯を磨かないで寝ました。 (Ha o migakanaide nemashita.) - I went to bed without brushing my teeth.",
+      "level": 5
     },
     {
       "id": 39,
       "grammar": "ないでください",
       "romaji": "naide kudasai",
       "meaning": "please don't do",
-      "example": "ここで写真を撮らないでください。 (Koko de shashin o toranaide kudasai.) - Please don't take photos here."
+      "example": "ここで写真を撮らないでください。 (Koko de shashin o toranaide kudasai.) - Please don't take photos here.",
+      "level": 5
     },
     {
       "id": 40,
       "grammar": "なくてもいい",
       "romaji": "naku temo ii",
       "meaning": "don't have to",
-      "example": "急がなくてもいいよ。 (Isoganakutemo ii yo.) - You don't have to hurry."
+      "example": "急がなくてもいいよ。 (Isoganakutemo ii yo.) - You don't have to hurry.",
+      "level": 5
     },
     {
       "id": 41,
       "grammar": "なくちゃ",
       "romaji": "nakucha",
       "meaning": "must do; need to; gotta do",
-      "example": "宿題をやらなくちゃ。 (Shukudai o yaranakucha.) - I gotta do my homework."
+      "example": "宿題をやらなくちゃ。 (Shukudai o yaranakucha.) - I gotta do my homework.",
+      "level": 5
     },
     {
       "id": 42,
       "grammar": "なくてはいけない",
       "romaji": "nakute wa ikenai",
       "meaning": "must do; need to do",
-      "example": "毎日勉強しなくてはいけない。 (Mainichi benkyou shinakute wa ikenai.) - I must study every day."
+      "example": "毎日勉強しなくてはいけない。 (Mainichi benkyou shinakute wa ikenai.) - I must study every day.",
+      "level": 5
     },
     {
       "id": 43,
       "grammar": "なくてはならない",
       "romaji": "nakute wa naranai",
       "meaning": "must do; need to do",
-      "example": "この仕事はやらなくてはならない。 (Kono shigoto wa yaranakute wa naranai.) - This work must be done."
+      "example": "この仕事はやらなくてはならない。 (Kono shigoto wa yaranakute wa naranai.) - This work must be done.",
+      "level": 5
     },
     {
       "id": 44,
       "grammar": "なる",
       "romaji": "naru",
       "meaning": "to become",
-      "example": "天気が悪くなりました。 (Tenki ga waruku narimashita.) - The weather became bad."
+      "example": "天気が悪くなりました。 (Tenki ga waruku narimashita.) - The weather became bad.",
+      "level": 5
     },
     {
       "id": 45,
       "grammar": "んです",
       "romaji": "ndesu",
       "meaning": "to explain something; show emphasis",
-      "example": "遅れたんです。 (Okureta ndesu.) - I was late (and that's why)."
+      "example": "遅れたんです。 (Okureta ndesu.) - I was late (and that's why).",
+      "level": 5
     },
     {
       "id": 46,
       "grammar": "ね",
       "romaji": "ne",
       "meaning": "isn't it? right? eh?",
-      "example": "かわいいね！ (Kawaii ne!) - It's cute, isn't it?"
+      "example": "かわいいね！ (Kawaii ne!) - It's cute, isn't it?",
+      "level": 5
     },
     {
       "id": 47,
       "grammar": "に",
       "romaji": "ni",
       "meaning": "destination particle; in; at; on; to",
-      "example": "日本に行きます。 (Nihon ni ikimasu.) - I'm going to Japan."
+      "example": "日本に行きます。 (Nihon ni ikimasu.) - I'm going to Japan.",
+      "level": 5
     },
     {
       "id": 48,
       "grammar": "にいく",
       "romaji": "ni iku",
       "meaning": "go to do",
-      "example": "買い物に行きます。 (Kaimono ni ikimasu.) - I'm going shopping."
+      "example": "買い物に行きます。 (Kaimono ni ikimasu.) - I'm going shopping.",
+      "level": 5
     },
     {
       "id": 49,
       "grammar": "にする",
       "romaji": "ni suru",
       "meaning": "to decide on",
-      "example": "ピザにします。 (Piza ni shimasu.) - I'll decide on pizza."
+      "example": "ピザにします。 (Piza ni shimasu.) - I'll decide on pizza.",
+      "level": 5
     },
     {
       "id": 50,
       "grammar": "に/へ",
       "romaji": "ni/e",
       "meaning": "to (indicates direction / destination)",
-      "example": "学校へ行きます。 (Gakkou e ikimasu.) - I'm going to school."
+      "example": "学校へ行きます。 (Gakkou e ikimasu.) - I'm going to school.",
+      "level": 5
     },
     {
       "id": 51,
       "grammar": "の",
       "romaji": "no",
       "meaning": "possessive particle",
-      "example": "私の本です。 (Watashi no hon desu.) - It's my book."
+      "example": "私の本です。 (Watashi no hon desu.) - It's my book.",
+      "level": 5
     },
     {
       "id": 52,
       "grammar": "のです",
       "romaji": "no desu",
       "meaning": "to explain something; show emphasis",
-      "example": "行きたいのです。 (Ikitai no desu.) - I want to go (that's the reason)."
+      "example": "行きたいのです。 (Ikitai no desu.) - I want to go (that's the reason).",
+      "level": 5
     },
     {
       "id": 53,
       "grammar": "のが下手",
       "romaji": "no ga heta",
       "meaning": "to be bad at doing something",
-      "example": "私は歌うのが下手です。 (Watashi wa utau no ga heta desu.) - I'm bad at singing."
+      "example": "私は歌うのが下手です。 (Watashi wa utau no ga heta desu.) - I'm bad at singing.",
+      "level": 5
     },
     {
       "id": 54,
       "grammar": "のが上手",
       "romaji": "no ga jouzu",
       "meaning": "to be good at",
-      "example": "彼は料理するのが上手です。 (Kare wa ryouri suru no ga jouzu desu.) - He is good at cooking."
+      "example": "彼は料理するのが上手です。 (Kare wa ryouri suru no ga jouzu desu.) - He is good at cooking.",
+      "level": 5
     },
     {
       "id": 55,
       "grammar": "のが好き",
       "romaji": "no ga suki",
       "meaning": "to like doing something",
-      "example": "本を読むのが好きです。 (Hon o yomu no ga suki desu.) - I like reading books."
+      "example": "本を読むのが好きです。 (Hon o yomu no ga suki desu.) - I like reading books.",
+      "level": 5
     },
     {
       "id": 56,
       "grammar": "の中で[A]が一番",
       "romaji": "no naka de [A] ga ichiban",
       "meaning": "out of this group, [A] is best",
-      "example": "この中でりんごが一番好き。 (Kono naka de ringo ga ichiban suki.) - Among these, I like apples the best."
+      "example": "この中でりんごが一番好き。 (Kono naka de ringo ga ichiban suki.) - Among these, I like apples the best.",
+      "level": 5
     },
     {
       "id": 57,
       "grammar": "ので",
       "romaji": "node",
       "meaning": "because of; given that; since",
-      "example": "雨が降るので傘を持って行きます。 (Ame ga furu node kasa o motte ikimasu.) - Since it's raining, I'll bring an umbrella."
+      "example": "雨が降るので傘を持って行きます。 (Ame ga furu node kasa o motte ikimasu.) - Since it's raining, I'll bring an umbrella.",
+      "level": 5
     },
     {
       "id": 58,
       "grammar": "を",
       "romaji": "o/ wo",
       "meaning": "object marker particle",
-      "example": "りんごを食べます。 (Ringo o tabemasu.) - I eat an apple."
+      "example": "りんごを食べます。 (Ringo o tabemasu.) - I eat an apple.",
+      "level": 5
     },
     {
       "id": 59,
       "grammar": "をください",
       "romaji": "o kudasai",
-      "meaning": "please give me~",
-      "example": "水をください。 (Mizu o kudasai.) - Please give me water."
+      "meaning": "please give me",
+      "example": "水をください。 (Mizu o kudasai.) - Please give me water.",
+      "level": 5
     },
     {
       "id": 60,
       "grammar": "しかし",
       "romaji": "shikashi",
       "meaning": "but; however",
-      "example": "行きたかった。しかし、時間がない。 (Ikitakatta. Shikashi, jikan ga nai.) - I wanted to go. However, I have no time."
+      "example": "行きたかった。しかし、時間がない。 (Ikitakatta. Shikashi, jikan ga nai.) - I wanted to go. However, I have no time.",
+      "level": 5
     },
     {
       "id": 61,
       "grammar": "すぎる",
       "romaji": "sugiru",
       "meaning": "too much",
-      "example": "食べすぎると太ります。 (Tabesugiru to futorimasu.) - If you eat too much, you'll gain weight."
+      "example": "食べすぎると太ります。 (Tabesugiru to futorimasu.) - If you eat too much, you'll gain weight.",
+      "level": 5
     },
     {
       "id": 62,
       "grammar": "たことがある",
       "romaji": "ta koto ga aru",
       "meaning": "to have done something before",
-      "example": "日本に行ったことがあります。 (Nihon ni itta koto ga arimasu.) - I have been to Japan."
+      "example": "日本に行ったことがあります。 (Nihon ni itta koto ga arimasu.) - I have been to Japan.",
+      "level": 5
     },
     {
       "id": 63,
       "grammar": "たい",
       "romaji": "tai",
       "meaning": "want to do something",
-      "example": "泳ぎたいです。 (Oyogitai desu.) - I want to swim."
+      "example": "泳ぎたいです。 (Oyogitai desu.) - I want to swim.",
+      "level": 5
     },
     {
       "id": 64,
       "grammar": "たり〜たり",
-      "romaji": "tari~tari",
+      "romaji": "taritari",
       "meaning": "do such things as A and B",
-      "example": "買い物したり、映画を見たりします。 (Kaimono shitari, eiga o mitari shimasu.) - I do things like shopping and watching movies."
+      "example": "買い物したり、映画を見たりします。 (Kaimono shitari, eiga o mitari shimasu.) - I do things like shopping and watching movies.",
+      "level": 5
     },
     {
       "id": 65,
       "grammar": "てある",
       "romaji": "te aru",
       "meaning": "is/has been done (resulting state)",
-      "example": "窓が開けてあります。 (Mado ga akete arimasu.) - The window has been opened."
+      "example": "窓が開けてあります。 (Mado ga akete arimasu.) - The window has been opened.",
+      "level": 5
     },
     {
       "id": 66,
       "grammar": "ている",
       "romaji": "te iru",
       "meaning": "ongoing action or current state",
-      "example": "今、本を読んでいます。 (Ima, hon o yonde imasu.) - I am reading a book now."
+      "example": "今、本を読んでいます。 (Ima, hon o yonde imasu.) - I am reading a book now.",
+      "level": 5
     },
     {
       "id": 67,
       "grammar": "てから",
       "romaji": "te kara",
       "meaning": "after doing~",
-      "example": "宿題をしてから遊びます。 (Shukudai o shite kara asobimasu.) - I'll play after doing my homework."
+      "example": "宿題をしてから遊びます。 (Shukudai o shite kara asobimasu.) - I'll play after doing my homework.",
+      "level": 5
     },
     {
       "id": 68,
       "grammar": "てください",
       "romaji": "te kudasai",
       "meaning": "please do",
-      "example": "座ってください。 (Suwatte kudasai.) - Please sit down."
+      "example": "座ってください。 (Suwatte kudasai.) - Please sit down.",
+      "level": 5
     },
     {
       "id": 69,
       "grammar": "てはいけない",
       "romaji": "te wa ikenai",
       "meaning": "must not; may not; cannot",
-      "example": "ここで走ってはいけません。 (Koko de hashitte wa ikemasen.) - You must not run here."
+      "example": "ここで走ってはいけません。 (Koko de hashitte wa ikemasen.) - You must not run here.",
+      "level": 5
     },
     {
       "id": 70,
       "grammar": "てもいいです",
       "romaji": "temo ii desu",
       "meaning": "is OK to..; is alright to..; may I..?",
-      "example": "ここに座ってもいいですか？ (Koko ni suwatte mo ii desu ka?) - Is it okay if I sit here?"
+      "example": "ここに座ってもいいですか？ (Koko ni suwatte mo ii desu ka?) - Is it okay if I sit here?",
+      "level": 5
     },
     {
       "id": 71,
       "grammar": "と",
       "romaji": "to",
       "meaning": "and; with; as; connecting particle",
-      "example": "犬と猫がいます。 (Inu to neko ga imasu.) - There are dogs and cats."
+      "example": "犬と猫がいます。 (Inu to neko ga imasu.) - There are dogs and cats.",
+      "level": 5
     },
     {
       "id": 72,
       "grammar": "とき",
       "romaji": "toki",
       "meaning": "when; at this time",
-      "example": "子供のとき、よく遊んだ。 (Kodomo no toki, yoku asonda.) - When I was a child, I played a lot."
+      "example": "子供のとき、よく遊んだ。 (Kodomo no toki, yoku asonda.) - When I was a child, I played a lot.",
+      "level": 5
     },
     {
       "id": 73,
       "grammar": "とても",
       "romaji": "totemo",
       "meaning": "very; awfully; exceedingly",
-      "example": "とても疲れました。 (Totemo tsukaremashita.) - I'm very tired."
+      "example": "とても疲れました。 (Totemo tsukaremashita.) - I'm very tired.",
+      "level": 5
     },
     {
       "id": 74,
       "grammar": "つもり",
       "romaji": "tsumori",
       "meaning": "plan to ~; intend to ~",
-      "example": "明日、図書館に行くつもりです。 (Ashita, toshokan ni iku tsumori desu.) - I plan to go to the library tomorrow."
+      "example": "明日、図書館に行くつもりです。 (Ashita, toshokan ni iku tsumori desu.) - I plan to go to the library tomorrow.",
+      "level": 5
     },
     {
       "id": 75,
       "grammar": "は",
       "romaji": "wa",
       "meaning": "topic marker",
-      "example": "私は学生です。 (Watashi wa gakusei desu.) - I am a student."
+      "example": "私は学生です。 (Watashi wa gakusei desu.) - I am a student.",
+      "level": 5
     },
     {
       "id": 76,
       "grammar": "は〜より・・・です",
       "romaji": "wa ~yori... desu",
       "meaning": "[A] is more ~ than [B]",
-      "example": "猫は犬よりかわいいです。 (Neko wa inu yori kawaii desu.) - Cats are cuter than dogs."
+      "example": "猫は犬よりかわいいです。 (Neko wa inu yori kawaii desu.) - Cats are cuter than dogs.",
+      "level": 5
     },
     {
       "id": 77,
       "grammar": "はどうですか",
       "romaji": "wa dou desu ka",
       "meaning": "how about; how is",
-      "example": "このレストランはどうですか？ (Kono resutoran wa dou desu ka?) - How about this restaurant?"
+      "example": "このレストランはどうですか？ (Kono resutoran wa dou desu ka?) - How about this restaurant?",
+      "level": 5
     },
     {
       "id": 78,
       "grammar": "や",
       "romaji": "ya",
       "meaning": "and; or; connecting particle",
-      "example": "りんごやバナナを買いました。 (Ringo ya banana o kaimashita.) - I bought apples and bananas."
+      "example": "りんごやバナナを買いました。 (Ringo ya banana o kaimashita.) - I bought apples and bananas.",
+      "level": 5
     },
     {
       "id": 79,
       "grammar": "よ",
       "romaji": "yo",
       "meaning": "you know; emphasis (ending particle)",
-      "example": "おいしいよ！ (Oishii yo!) - It's delicious, you know!"
+      "example": "おいしいよ！ (Oishii yo!) - It's delicious, you know!",
+      "level": 5
     },
     {
       "id": 80,
       "grammar": "より〜ほうが",
       "romaji": "yori ~hou ga",
       "meaning": "[A] is more than [B]",
-      "example": "コーヒーより紅茶のほうが好きです。 (Koohii yori koucha no hou ga suki desu.) - I like tea more than coffee."
+      "example": "コーヒーより紅茶のほうが好きです。 (Koohii yori koucha no hou ga suki desu.) - I like tea more than coffee.",
+      "level": 5
     }
   ]
 }
+
